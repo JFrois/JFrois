@@ -1,4 +1,4 @@
-## Olá pessoal, sou Juan Frois! Seja bem vindo! 👻
+## Olá, sou Juan Frois! Seja bem vindo! 👻
 
 <h2>Sobre mim</h2>
 
