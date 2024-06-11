@@ -26,11 +26,13 @@ Recentemente, decidi fazer uma transição de carreira e me dedicar ao campo de 
 <a href = "https://wa.me/5511986834909"><img loading="lazy" src="https://github.com/JFrois/JFrois/assets/112560665/c9fc066b-3c02-4cec-913f-65c27b566652" target="_blank" width="40" height="40"></a>          
 
 </div>
+
 <div>
   
-![github-contribution-grid-snake](https://github.com/JFrois/JFrois/assets/112560665/68bcad87-59aa-4519-b01e-b8540e804e42)
+![Snake animation](https://github.com/JFrois/JFrois/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+  
 
 
           
