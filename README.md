@@ -1,6 +1,6 @@
 ## Olá, sou Juan Frois! Seja bem vindo! 👻 
 
-<h2>Sobre mim <img src="https://github.com/JFrois/JFrois/assets/112560665/272a1a91-7bfc-4407-8912-f6e5956f9f70" width="40" height="40"></h2> 
+<h2>Sobre mim:</h2> 
 
 Estudante de análise e desenvolvimento de sistemas na Uninter, apaixonado por tecnologia e inovação. 
 
