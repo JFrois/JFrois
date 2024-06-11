@@ -1,6 +1,6 @@
-## Olá, sou Juan Frois! Seja bem vindo! 👻
+## Olá, sou Juan Frois! Seja bem vindo! 👻 
 
-<h2>Sobre mim</h2>
+<h2>Sobre mim <img src="https://github.com/JFrois/JFrois/assets/112560665/272a1a91-7bfc-4407-8912-f6e5956f9f70" width="40" height="40"></h2> 
 
 Estudante de análise e desenvolvimento de sistemas na Uninter, apaixonado por tecnologia e inovação. 
 
@@ -25,14 +25,7 @@ Recentemente, decidi fazer uma transição de carreira e me dedicar ao campo de 
 <a href="https://www.linkedin.com/in/juanfrois/" target="_blank"><img loading="lazy" src="https://github.com/JFrois/JFrois/assets/112560665/28040492-8f86-4827-b22b-58de6ad12a5f" target="_blank" width="40" height="40"></a><br>
 <a href = "https://wa.me/5511986834909"><img loading="lazy" src="https://github.com/JFrois/JFrois/assets/112560665/c9fc066b-3c02-4cec-913f-65c27b566652" target="_blank" width="40" height="40"></a>          
 
-</div>
-
-<div>
-  
-![Snake animation](https://github.com/JFrois/JFrois/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-  
+</div>  
 
 
           
