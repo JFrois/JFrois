@@ -22,8 +22,9 @@ Recentemente, decidi fazer uma transição de carreira e me dedicar ao campo de 
 
 <div>
   
-<a href="https://www.linkedin.com/in/juanfrois/" target="_blank"><img loading="lazy" src="https://github.com/JFrois/JFrois/assets/112560665/28040492-8f86-4827-b22b-58de6ad12a5f" target="_blank" width="40" height="40"></a>                    <a href = "https://wa.me/5511986834909"><img loading="lazy" src="https://github.com/JFrois/JFrois/assets/112560665/c9fc066b-3c02-4cec-913f-65c27b566652" target="_blank" width="40" height="40"></a>          
-<a href="https://trailhead.salesforce.com/careers/resume" target="_blank"><img loading="lazy" src="https://github.com/JFrois/JFrois/assets/112560665/98fd93f6-251b-4b14-bd5d-e7a6bddefac6" target="_blank" width="40" height="40"></a>            <a href="https://cursos.alura.com.br/user/jfrois" target="_blank"><img loading="lazy" src="https://github.com/JFrois/JFrois/assets/112560665/66ebf1df-c041-4dcf-b68d-c8abc81e21a5" target="_blank" width="40" height="40" border-radius="50"></a> 
+<a href="https://www.linkedin.com/in/juanfrois/" target="_blank"><img loading="lazy" src="https://github.com/JFrois/JFrois/assets/112560665/28040492-8f86-4827-b22b-58de6ad12a5f" target="_blank" width="40" height="40"></a><br>
+<a href = "https://wa.me/5511986834909"><img loading="lazy" src="https://github.com/JFrois/JFrois/assets/112560665/c9fc066b-3c02-4cec-913f-65c27b566652" target="_blank" width="40" height="40"></a>          
+
 </div>
 <div>
   
