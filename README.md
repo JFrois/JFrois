@@ -2,11 +2,15 @@
 
 <h2>Sobre mim:</h2> 
 
-Estudante de análise e desenvolvimento de sistemas na Uninter, apaixonado por tecnologia e inovação. 
+Sou Juan Frois, estudante de Análise e Desenvolvimento de Sistemas na Uninter, com forte interesse em tecnologia, inovação e transformação digital. Em transição de carreira, busco ingressar na área de desenvolvimento de software, onde pretendo aplicar minhas habilidades em programação, análise de processos e otimização de sistemas.
 
-Tenho uma vasta experiência no mercado imobiliário, onde trabalhei por 4 anos na área operacional jurídica, lidando com contratos, due diligence e análises técnicas de imóveis. Nesse período, aprendi muito sobre os processos e as normas que regem o setor, bem como as ferramentas e os sistemas utilizados para gerenciar as operações.
+Tenho quatro anos de experiência no mercado imobiliário, atuando na área operacional jurídica, com foco em gestão de contratos, due diligence e análise técnica de imóveis. Esse período me proporcionou uma compreensão aprofundada dos processos e regulamentações do setor, além do domínio de ferramentas e sistemas de gestão imobiliária.
 
-Recentemente, decidi fazer uma transição de carreira e me dedicar ao campo de LegalOps, onde pude aplicar os meus conhecimentos jurídicos e imobiliários para otimizar as tarefas e os fluxos de trabalho do time jurídico, em parceria com os times de produto e BA. Nessa função, participei de projetos de ajustes nos sistemas e na automação de processos, utilizando as melhores práticas e metodologias ágeis.
+Na minha recente transição para a área de Legal Operations (LegalOps), colaborei diretamente com equipes de desenvolvimento, produto e Business Analysis para otimizar fluxos de trabalho e automatizar processos jurídicos. Minha atuação incluiu a reestruturação de sistemas, melhoria de processos e adoção de metodologias ágeis, sempre visando aumentar a eficiência operacional e a precisão das análises de dados.
+
+Como estudante de Análise e Desenvolvimento de Sistemas, adquiri habilidades em otimização de fluxos de trabalho, reestruturação de sistemas e implementação de CRM como o Salesforce, resultando em aumentos significativos de produtividade. Minha experiência mais recente como estagiário na SAP Ramo Sistemas permitiu o aprimoramento de minhas competências técnicas em desenvolvimento de software e otimização de processos.
+
+Estou entusiasmado com a possibilidade de contribuir para a criação de soluções tecnológicas inovadoras e de alto impacto, aplicando meu conhecimento em ambientes colaborativos e orientados a resultados.
 
 <h2>Estou aprendendo sobre:</h2>
 
