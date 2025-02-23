@@ -17,7 +17,7 @@
 </ul>
 
 <p>
-    Atualmente, estou cursando <strong>Inteligência Artificial</strong> na FIAP, expandindo minha capacidade de desenvolver soluções personalizadas, inteligentes e impactantes. Sou movido pela busca constante por aprendizado e pela união de tecnologia e eficiência para resolver problemas reais e contribuir com projetos inovadores.
+    Atualmente, estou cursando <strong>Engenharia de Software</strong> na FIAP, expandindo minha capacidade de desenvolver soluções personalizadas, inteligentes e impactantes. Sou movido pela busca constante por aprendizado e pela união de tecnologia e eficiência para resolver problemas reais e contribuir com projetos inovadores.
 </p>
 
 ---
