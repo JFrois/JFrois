@@ -1,69 +1,83 @@
-<h1 align="center">👋 Olá, sou Juan Frois! Seja bem-vindo(a)!</h1>
-
-<h2>🧑‍💻 Sobre Mim</h2>
-<p>
-    Sou <strong>Juan Frois</strong>, profissional em transição para <strong>Engenharia de Software</strong>, apaixonado por otimizar processos e gerar valor por meio de <strong>automação</strong> e <strong>soluções data-driven</strong>.
-</p>
-
-<p>
-    Atualmente curso <strong>Engenharia de Software</strong> na FIAP e sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong> pela UNINTER. Tenho experiência prática com automações usando Python, análise de dados com SQL, criação de dashboards no Zendesk e integração de soluções via Salesforce.
-</p>
-
-<p>
-    No <strong>QuintoAndar</strong>, atuo com automação de processos, análise de dados e desenvolvimento de soluções internas para aumento de produtividade. Utilizo <strong>Python, SQL, Google Sheets</strong> e APIs internas para criar fluxos automatizados. Na <strong>Loft</strong>, criei automações que reduziram em <strong>50%</strong> o tempo de processamento contratual e dashboards que aumentaram em <strong>25%</strong> a precisão na análise de dados.
-</p>
-
-<h3>🎯 Principais Projetos</h3>
-<ul>
-    <li><strong>Reestruturação do CRM Salesforce:</strong> Mapeamento de processos e implementação de soluções escaláveis para operações imobiliárias.</li>
-    <li><strong>Centralização da comunicação via Omnitalk:</strong> Integração de dados jurídicos e operacionais com foco em SLAs e eficiência colaborativa.</li>
-</ul>
-
-<p>
-    Tenho interesse em tecnologias como <strong>Cloud Computing, DevOps, CI/CD</strong> e <strong>Engenharia de Dados</strong>. Minhas habilidades técnicas incluem <strong>Python, SQL, C#, JavaScript, Git, Looker, Salesforce, Jira, Zendesk</strong> e <strong>Google Cloud</strong>.
-</p>
-
-<p>
-    📂 Projetos no GitHub: <a href="https://github.com/JFrois">github.com/JFrois</a><br>
-    📌 Certificações: Python OOP, Análise de Dados, SQL, Git e GitHub
-</p>
-
----
-
-<h2>📘 O Que Estou Aprendendo</h2>
-
-<h3>💻 Back-End</h3>
-<p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-</p>
-
-<h3>🗄️ Banco de Dados</h3>
-<p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-</p>
-
-<h3>🎨 Front-End</h3>
-<p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-</p>
-
----
-
-<h2>🔗 Contatos</h2>
-<div>
-    <a href="https://www.linkedin.com/in/juanfrois/" target="_blank">
-        <img src="https://github.com/JFrois/JFrois/assets/112560665/28040492-8f86-4827-b22b-58de6ad12a5f" width="40" height="40" alt="LinkedIn" />
-    </a>
-    <a href="https://wa.me/5511986834909" target="_blank">
-        <img src="https://github.com/JFrois/JFrois/assets/112560665/c9fc066b-3c02-4cec-913f-65c27b566652" width="40" height="40" alt="WhatsApp" />
-    </a>
-    <a href="mailto:contatoJuanFrois@gmail.com" target="_blank">
-        <img src="https://github.com/user-attachments/assets/c457a3c7-1312-4c52-b06a-d5a99467d646" width="40" height="40" alt="E-mail" />
-    </a>
+<div align="center">
+  <a href="https://github.com/JFrois">
+    <img src="https://media.licdn.com/dms/image/v2/D4D16AQHp-XPQ3Ffskw/profile-displaybackgroundimage-shrink_350_1400/B4DZiv9ZV2GQAo-/0/1755298765673?e=1758153600&v=beta&t=zRZkZhESbuZJ6KgSjhJUzfZhzXh1G_b_KiITkMT-TLg" alt="Banner Profile Juan Frois" />
+  </a>
+  <br/>
+  <h1>👋 Olá, sou o Juan Frois!</h1>
+  <h3>Engenheiro de Software apaixonado por automação e soluções data-driven.</h3>
 </div>
 
 ---
 
-<h2>🙌 Obrigado por visitar meu perfil!</h2>
+### 👨‍💻 Sobre Mim
+
+Sou um profissional que uniu a visão de negócio, vinda de experiências em Análise de Sistemas e LegalOps, com a capacidade técnica da Engenharia de Software. Meu objetivo é transformar desafios operacionais em código funcional e elegante, construindo soluções que geram impacto real.
+
+- 🎯 Foco em **automação de processos (RPA)** e desenvolvimento de ferramentas internas.
+- 💡 Especialista em criar **soluções data-driven** que otimizam a tomada de decisão.
+- 🚀 Busco ativamente oportunidades para aplicar minha paixão por eficiência e gerar valor através do software.
+
+---
+
+### 💻 Minhas Habilidades (Tech Stack)
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <div align="center">
+        <strong>Linguagens</strong><br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <div align="center">
+        <strong>Banco de Dados</strong><br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <div align="center">
+        <strong>Cloud & DevOps</strong><br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Experiência em Destaque
+
+-   **Loft:** Desenvolvi automações que geraram **50% de redução** no tempo de processamento contratual e criei dashboards que aumentaram em **25% a precisão** na análise de dados.
+-   **QuintoAndar:** Otimizei processos e aumentei a produtividade da equipe através de soluções internas com **Python, SQL e integração de APIs**.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/JFrois">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JFrois&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFrois&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
+
+---
+
+### 📫 Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/juanfrois/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/5511986834909" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="mailto:contatoJuanFrois@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
