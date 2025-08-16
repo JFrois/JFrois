@@ -14,7 +14,7 @@
 Sou um profissional que uniu a visão de negócio, vinda de experiências em Análise de Sistemas e LegalOps, com a capacidade técnica da Engenharia de Software. Meu objetivo é transformar desafios operacionais em código funcional e elegante, construindo soluções que geram impacto real.
 
 - 🎯 Foco em **automação de processos (RPA)** e desenvolvimento de ferramentas internas.
-- 💡 Especialista em criar **soluções data-driven** que otimizam a tomada de decisão.
+- 💡 Focado em criar **soluções data-driven** que otimizam a tomada de decisão.
 - 🚀 Busco ativamente oportunidades para aplicar minha paixão por eficiência e gerar valor através do software.
 
 ---
