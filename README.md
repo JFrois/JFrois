@@ -2,7 +2,7 @@
   <a href="https://github.com/JFrois">
     <img src="https://media.licdn.com/dms/image/v2/D4D16AQHp-XPQ3Ffskw/profile-displaybackgroundimage-shrink_350_1400/B4DZiv9ZV2GQAo-/0/1755298765673?e=1758153600&v=beta&t=zRZkZhESbuZJ6KgSjhJUzfZhzXh1G_b_KiITkMT-TLg" alt="Banner Profile Juan Frois" />
   </a>
-  <br/>
+  
   <h1>👋 Olá, sou o Juan Frois!</h1>
   <h3>Engenheiro de Software apaixonado por automação e soluções data-driven.</h3>
 </div>
@@ -11,73 +11,83 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um profissional que uniu a visão de negócio, vinda de experiências em Análise de Sistemas e LegalOps, com a capacidade técnica da Engenharia de Software. Meu objetivo é transformar desafios operacionais em código funcional e elegante, construindo soluções que geram impacto real.
+Com experiência em Análise de Sistemas, LegalOps e Engenharia de Software, meu foco é transformar desafios operacionais em código funcional e elegante. Construo soluções que geram impacto real nos negócios.
 
 - 🎯 Foco em **automação de processos (RPA)** e desenvolvimento de ferramentas internas.
-- 💡 Focado em criar **soluções data-driven** que otimizam a tomada de decisão.
+- 💡 Apaixonado por criar **soluções data-driven** que otimizam a tomada de decisão.
 - 🚀 Busco ativamente oportunidades para aplicar minha paixão por eficiência e gerar valor através do software.
 
 ---
 
-### 💻 Minhas Habilidades (Tech Stack)
+### 💻 Linguagens e Tecnologias
 
-<table>
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> 
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+### 🛠️ Ferramentas e Plataformas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Confluence-%23172B44.svg?style=for-the-badge&logo=Confluence&logoColor=white" alt="Confluence"/>
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello"/>
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" alt="Twilio"/>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<table align="center" width="100%">
   <tr>
-    <td valign="top" width="33%">
-      <div align="center">
-        <strong>Linguagens</strong><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-      </div>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=JFrois&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas Gerais do JFrois"/>
     </td>
-    <td valign="top" width="33%">
-      <div align="center">
-        <strong>Banco de Dados</strong><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-      </div>
+    <td align="center" valign="top" width="50%">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=JFrois&theme=blue_navy&hide_border=false" alt="Sequência de Contribuições do JFrois"/>
     </td>
-    <td valign="top" width="33%">
-      <div align="center">
-        <strong>Cloud & DevOps</strong><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-      </div>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFrois&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=900" alt="Linguagens Mais Usadas pelo JFrois"/>
     </td>
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JFrois&theme=github_dark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</p>
 
-### 🚀 Experiência em Destaque
-
--   **Loft:** Desenvolvi automações que geraram **50% de redução** no tempo de processamento contratual e criei dashboards que aumentaram em **25% a precisão** na análise de dados.
--   **QuintoAndar:** Otimizei processos e aumentei a produtividade da equipe através de soluções internas com **Python, SQL e integração de APIs**.
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/JFrois">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JFrois&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFrois&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=JFrois&limit=5&theme=discord_old_blurple&combine_all_yearly_contributions=true" alt="Top Contributor Stats"/>
+</p>
 
 ---
 
-### 📫 Contato
+### 🌐 Conecte-se Comigo
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/juanfrois/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://wa.me/5511986834909" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="mailto:contatoJuanFrois@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jfrois/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:contatojuanfrois@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://discord.gg/_jfrois_" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://www.instagram.com/jfrois9/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://stackoverflow.com/users/22291413/juan-frois" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
+  <a href="https://www.twitch.tv/jfroislearningjourney" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch"></a>
+  <a href="https://www.youtube.com/@jfroislearningjourney" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
+</p>
