@@ -4,7 +4,7 @@
   </a>
   
   <h1>👋 Olá, sou o Juan Frois!</h1>
-  <h3>Engenheiro de Software apaixonado por automação e soluções data-driven.</h3>
+  <h3>Engenheiro de Software | Automação | Soluções data-driven.</h3>
 </div>
 
 ---
