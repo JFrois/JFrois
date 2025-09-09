@@ -8,8 +8,6 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    
-    # Adicionado para dar permissão de escrita ao workflow
     permissions:
       contents: write
 
@@ -27,6 +25,13 @@ jobs:
 
       - name: Run update script
         run: python ./update_readme.py
+
+      # PASSO DE VERIFICAÇÃO ADICIONADO
+      - name: Verify file size
+        run: |
+          echo "Verificando o tamanho do arquivo README.md..."
+          ls -lh README.md
+          echo "Verificação concluída."
 
       - name: Commit and push changes
         run: |
