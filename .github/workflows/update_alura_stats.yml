@@ -1,42 +1,37 @@
 name: Update Alura Stats on README
 
 on:
-  # Permite que você rode este workflow manualmente pela aba Actions
   workflow_dispatch:
-  
   schedule:
-    # Roda "às 8h da manhã (UTC) todos os dias". 
-    # UTC é 3 horas a mais que o horário de Brasília, então rodará às 5h da manhã (BRT).
     - cron: '0 8 * * *'
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    
+    # Adicionado para dar permissão de escrita ao workflow
+    permissions:
+      contents: write
+
     steps:
-      # 1. Baixa o código do seu repositório para a máquina virtual
       - name: Check out repository
         uses: actions/checkout@v4
 
-      # 2. Configura o ambiente Python
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      # 3. Instala as dependências necessárias (neste caso, a biblioteca 'requests')
       - name: Install dependencies
         run: pip install requests
 
-      # 4. Roda o script Python que atualiza o README
       - name: Run update script
         run: python ./update_readme.py
 
-      # 5. Faz o commit e envia as alterações de volta para o repositório
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          # Faz o commit apenas se houver mudanças no arquivo
           git diff-index --quiet HEAD || git commit -m "Chore: Atualiza estatísticas da Alura"
           git push
