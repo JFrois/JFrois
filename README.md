@@ -27,7 +27,7 @@ Com experiência em Análise de Sistemas, LegalOps e Engenharia de Software, meu
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> 
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -49,6 +49,27 @@ Com experiência em Análise de Sistemas, LegalOps e Engenharia de Software, meu
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
+
+---
+
+### 🚀 Projetos em Destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="[LINK_PARA_SEU_PROJETO]">Sistema de Automação Contratual</a></h3>
+      <p>Uma aplicação desktop (RPA) desenvolvida em Python para automatizar a geração e o preenchimento de contratos a partir de uma base de dados. Reduziu o tempo manual do processo em 90%.</p>
+      <p>
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+        <img src="https://img.shields.io/badge/tkinter-%2377CEFF.svg?style=for-the-badge&logo=python&logoColor=black" alt="Tkinter"/>
+      </p>
+    </td>
+    <td width="50%">
+      <a href="[LINK_PARA_SEU_PROJETO]"><img src="[LINK_PARA_UM_GIF_OU_IMAGEM_DO_PROJETO]" alt="Demonstração do Projeto"></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -83,22 +104,28 @@ Com experiência em Análise de Sistemas, LegalOps e Engenharia de Software, meu
 ### 👨‍🏫 Meus Estudos na Alura
 
 #### Cursos em Andamento
+
 | Curso | Progresso |
 | :--- | :---: |
-|  |  |
-| ... | ... |
+| Carregando dados da Alura... | |
+
 <br>
 
 #### Formações e Planos de Estudo
+
 | Trilha de Estudo | Tipo | Cursos Concluídos |
 | :--- | :--- | :---: |
-|      |      |       |
-| ... | ... |
+| Carregando dados da Alura... | | |
+
 <br>
 
-_[Informações extraídas da API pública da Alura]_
+_[Informações extraídas e atualizadas automaticamente via API pública da Alura]_
 
 ---
+
+### ⌛ Wakatime
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=JFrois&theme=blue_navy&hide_border=false&layout=compact" alt="Estatísticas do WakaTime"/>
 
 ### 🌐 Conecte-se Comigo
 
