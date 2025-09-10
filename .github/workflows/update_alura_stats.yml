@@ -19,6 +19,13 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+      
+      # NOVO PASSO DE DIAGNÓSTICO
+      - name: Display README content BEFORE script run
+        run: |
+          echo "Conteúdo do README.md ANTES da execução do script:"
+          cat README.md
+          echo "--------------------------------------------------"
 
       - name: Install dependencies
         run: pip install requests
@@ -26,12 +33,10 @@ jobs:
       - name: Run update script
         run: python ./update_readme.py
 
-      # PASSO DE VERIFICAÇÃO ADICIONADO
-      - name: Verify file size
+      - name: Verify file size AFTER script run
         run: |
-          echo "Verificando o tamanho do arquivo README.md..."
+          echo "Verificando o tamanho do arquivo README.md APÓS a execução do script:"
           ls -lh README.md
-          echo "Verificação concluída."
 
       - name: Commit and push changes
         run: |

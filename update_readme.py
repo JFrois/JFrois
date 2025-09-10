@@ -6,71 +6,77 @@ API_URL = "https://www.alura.com.br/api/dashboard/8b6930eefca6d579d24a4a3c73c4cd
 README_PATH = Path("README.md")
 
 def fetch_data(url):
-    """Busca dados de uma URL e retorna o JSON."""
     response = requests.get(url)
     if response.status_code != 200:
         raise Exception(f"Erro ao buscar dados da API: Status {response.status_code}")
     return response.json()
 
 def generate_markdown_table(data, section):
-    """Gera uma tabela Markdown para uma seção específica dos dados."""
     if section == "courses":
         header = ["#### Cursos em Andamento", "| Curso | Progresso |", "| :--- | :---: |"]
         items = data.get('courseProgresses', [])
         if not items: return "\n".join(header + ["| Nenhum curso em andamento. | |"])
-        
         rows = [f"| {item.get('name', 'N/A')} | `[ {item.get('progress', 0)}% ]` |" for item in items]
         return "\n".join(header + rows)
-
     if section == "degrees":
         header = ["#### Formações e Planos de Estudo", "| Trilha de Estudo | Tipo | Cursos Concluídos |", "| :--- | :--- | :---: |"]
         items = data.get('guides', [])
         if not items: return "\n".join(header + ["| Nenhuma formação encontrada. | | |"])
-        
         rows = []
         for item in items:
             kind = item.get('kind', 'DEGREE').replace('_', ' ').replace('USER GUIDE', 'Plano Pessoal').replace('CAREER PATH', 'Carreira').title()
             rows.append(f"| {item.get('name', 'N/A')} | {kind} | `{item.get('finishedCourses', 0)} de {item.get('totalCourses', 0)}` |")
         return "\n".join(header + rows)
-    
     return ""
 
 def replace_section_in_text(text, marker_name, new_content):
-    """Substitui o conteúdo entre marcadores em um texto."""
-    # LINHAS CORRIGIDAS:
     start_marker = f""
     end_marker = f""
-    
     pattern = re.compile(f"{re.escape(start_marker)}(.*?){re.escape(end_marker)}", re.DOTALL)
-    
-    # Adiciona quebras de linha para garantir o espaçamento correto no Markdown
-    replacement = f"{start_marker}\n\n{new_content}\n\n{end_marker}"
-    
+    replacement = f"{start_marker}\n{new_content}\n{end_marker}"
     return pattern.sub(replacement, text)
 
 if __name__ == "__main__":
     try:
-        # 1. Garante que os marcadores existem no README
+        print("--- PASSO 1: LENDO O ARQUIVO README.md ---")
         readme_content = README_PATH.read_text(encoding="utf-8")
-        if "" not in readme_content or "" not in readme_content:
-            raise ValueError("Marcadores de seção da Alura não encontrados no README.md. Adicione etc.")
+        print(f"Leitura concluída. O arquivo tem {len(readme_content)} caracteres.")
+        print("--- CONTEÚDO ORIGINAL LIDO ---")
+        print(readme_content)
+        print("---------------------------------")
 
-        # 2. Busca os dados da Alura
-        alura_data = fetch_data(API_URL)
+        if "" not in readme_content:
+            raise ValueError("Marcador ALURA_COURSES_START não encontrado!")
         
-        # 3. Gera as novas seções de Markdown
+        print("\n--- PASSO 2: BUSCANDO DADOS DA ALURA ---")
+        alura_data = fetch_data(API_URL)
+        print("Dados da Alura obtidos com sucesso.")
+        
+        print("\n--- PASSO 3: GERANDO TABELAS MARKDOWN ---")
         courses_table = generate_markdown_table(alura_data, "courses")
         degrees_table = generate_markdown_table(alura_data, "degrees")
-        
-        # 4. Substitui as seções no conteúdo do README
+        print("--- TABELA DE CURSOS ---")
+        print(courses_table)
+        print("--------------------------")
+        print("--- TABELA DE FORMAÇÕES ---")
+        print(degrees_table)
+        print("---------------------------")
+
+        print("\n--- PASSO 4: SUBSTITUINDO SEÇÕES ---")
         readme_content = replace_section_in_text(readme_content, "ALURA_COURSES", courses_table)
         readme_content = replace_section_in_text(readme_content, "ALURA_DEGREES", degrees_table)
+        print("Substituição em memória concluída.")
+
+        print("\n--- PASSO 5: PREPARANDO PARA SALVAR ---")
+        print(f"O conteúdo final a ser salvo tem {len(readme_content)} caracteres.")
+        print("--- CONTEÚDO FINAL A SER SALVO ---")
+        print(readme_content)
+        print("------------------------------------")
         
-        # 5. Salva o novo conteúdo no arquivo README.md
         README_PATH.write_text(readme_content, encoding="utf-8")
         
-        print("✅ README atualizado com sucesso!")
+        print("\n✅ Script Python finalizado com sucesso.")
 
     except Exception as e:
-        print(f"❌ Erro: {e}")
+        print(f"❌ Erro no script Python: {e}")
         exit(1)
