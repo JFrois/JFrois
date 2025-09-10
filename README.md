@@ -65,7 +65,7 @@ Com experiência em Análise de Sistemas, LegalOps e Engenharia de Software, meu
         <img src="https://img.shields.io/badge/tkinter-%2377CEFF.svg?style=for-the-badge&logo=python&logoColor=black" alt="Tkinter"/>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="[LINK_PARA_SEU_PROJETO]"><img src="[LINK_PARA_UM_GIF_OU_IMAGEM_DO_PROJETO]" alt="Demonstração do Projeto"></a>
     </td>
   </tr>
