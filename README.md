@@ -132,33 +132,14 @@ Com experiência em Análise de Sistemas, LegalOps e Engenharia de Software, meu
 ### 👨‍🏫 Meus Estudos na Alura
 
 #### Cursos em Andamento
-
-
 | Curso | Progresso |
 | :--- | :---: |
 | Carregando dados da Alura... | |
-
-<br>
-
-
-<br>
-
 #### Formações e Planos de Estudo
-
-
 | Trilha de Estudo | Tipo | Cursos Concluídos |
 | :--- | :--- | :---: |
 | Carregando dados da Alura... | | |
-
-<br>
-
-
-<br>
-
 _[Informações extraídas e atualizadas automaticamente via API pública da Alura]_
-
----
-
 
 ---
 
