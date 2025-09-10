@@ -32,19 +32,21 @@ def generate_markdown_table(data, section):
     return ""
 
 def replace_section_with_split(content, marker_name, new_block):
-    """Substitui o conteúdo entre marcadores usando string.split(), que é mais seguro que regex."""
-    start_marker = f""
-    end_marker = f""
+    """
+    Substitui o conteúdo entre marcadores usando string.split(), que é mais seguro que regex.
+    Espera que o README contenha marcadores no formato:
+    <!-- {marker_name}_START --> ... <!-- {marker_name}_END -->
+    O parâmetro marker_name é usado para construir esses marcadores e identificar a seção a ser substituída.
+    """
+    # LINHAS CORRIGIDAS:
+    start_marker = f"<!-- {marker_name}_START -->"
+    end_marker = f"<!-- {marker_name}_END -->"
 
     try:
-        # Divide o conteúdo em três partes: antes do marcador, o conteúdo antigo e depois do marcador
         before, rest = content.split(start_marker, 1)
         _, after = rest.split(end_marker, 1)
-        
-        # Reconstrói o conteúdo com o novo bloco
         return f"{before}{start_marker}\n{new_block}\n{end_marker}{after}"
     except ValueError:
-        # Se os marcadores não forem encontrados, retorna o conteúdo original sem erro
         print(f"Aviso: Marcador '{marker_name}' não encontrado no README.md. Seção não será atualizada.")
         return content
 
@@ -56,7 +58,6 @@ if __name__ == "__main__":
         courses_table = generate_markdown_table(alura_data, "courses")
         degrees_table = generate_markdown_table(alura_data, "degrees")
         
-        # Aplica a nova função de substituição, uma para cada seção
         readme_content = replace_section_with_split(readme_content, "ALURA_COURSES", courses_table)
         readme_content = replace_section_with_split(readme_content, "ALURA_DEGREES", degrees_table)
         
