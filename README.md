@@ -54,22 +54,6 @@ Com experiência em Análise de Sistemas, LegalOps e Engenharia de Software, meu
 
 ### 🚀 Projetos em Destaque
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JFrois/Atividades-de-programacao---IFSP">Sistema de Automação Contratual</a></h3>
-      <p>Uma aplicação desktop (RPA) desenvolvida em Python para automatizar a geração e o preenchimento de contratos a partir de uma base de dados. Reduziu o tempo manual do processo em 90%.</p>
-      <p>
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-        <img src="https://img.shields.io/badge/tkinter-%2377CEFF.svg?style=for-the-badge&logo=python&logoColor=black" alt="Tkinter"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/JFrois/Atividades-de-programacao---IFSP"><img src="https://github.com/JFrois/Atividades-de-programacao---IFSP/blob/main/Calculadora/Calculadora.gif" alt="Demonstração do Projeto"></a>
-    </td>
-  </tr>
-</table>
 
 ---
 
