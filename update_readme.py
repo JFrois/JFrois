@@ -1,23 +1,25 @@
 import requests
-import re
 from pathlib import Path
 
 API_URL = "https://www.alura.com.br/api/dashboard/8b6930eefca6d579d24a4a3c73c4cd76a450a20f6842a0de1b6417edcb02dee8"
 README_PATH = Path("README.md")
 
 def fetch_data(url):
+    """Busca dados de uma URL e retorna o JSON."""
     response = requests.get(url)
     if response.status_code != 200:
         raise Exception(f"Erro ao buscar dados da API: Status {response.status_code}")
     return response.json()
 
 def generate_markdown_table(data, section):
+    """Gera uma tabela Markdown para uma seção específica dos dados."""
     if section == "courses":
         header = ["#### Cursos em Andamento", "| Curso | Progresso |", "| :--- | :---: |"]
         items = data.get('courseProgresses', [])
         if not items: return "\n".join(header + ["| Nenhum curso em andamento. | |"])
         rows = [f"| {item.get('name', 'N/A')} | `[ {item.get('progress', 0)}% ]` |" for item in items]
         return "\n".join(header + rows)
+
     if section == "degrees":
         header = ["#### Formações e Planos de Estudo", "| Trilha de Estudo | Tipo | Cursos Concluídos |", "| :--- | :--- | :---: |"]
         items = data.get('guides', [])
@@ -29,54 +31,38 @@ def generate_markdown_table(data, section):
         return "\n".join(header + rows)
     return ""
 
-def replace_section_in_text(text, marker_name, new_content):
+def replace_section_with_split(content, marker_name, new_block):
+    """Substitui o conteúdo entre marcadores usando string.split(), que é mais seguro que regex."""
     start_marker = f""
     end_marker = f""
-    pattern = re.compile(f"{re.escape(start_marker)}(.*?){re.escape(end_marker)}", re.DOTALL)
-    replacement = f"{start_marker}\n{new_content}\n{end_marker}"
-    return pattern.sub(replacement, text)
+
+    try:
+        # Divide o conteúdo em três partes: antes do marcador, o conteúdo antigo e depois do marcador
+        before, rest = content.split(start_marker, 1)
+        _, after = rest.split(end_marker, 1)
+        
+        # Reconstrói o conteúdo com o novo bloco
+        return f"{before}{start_marker}\n{new_block}\n{end_marker}{after}"
+    except ValueError:
+        # Se os marcadores não forem encontrados, retorna o conteúdo original sem erro
+        print(f"Aviso: Marcador '{marker_name}' não encontrado no README.md. Seção não será atualizada.")
+        return content
 
 if __name__ == "__main__":
     try:
-        print("--- PASSO 1: LENDO O ARQUIVO README.md ---")
         readme_content = README_PATH.read_text(encoding="utf-8")
-        print(f"Leitura concluída. O arquivo tem {len(readme_content)} caracteres.")
-        print("--- CONTEÚDO ORIGINAL LIDO ---")
-        print(readme_content)
-        print("---------------------------------")
-
-        if "" not in readme_content:
-            raise ValueError("Marcador ALURA_COURSES_START não encontrado!")
-        
-        print("\n--- PASSO 2: BUSCANDO DADOS DA ALURA ---")
         alura_data = fetch_data(API_URL)
-        print("Dados da Alura obtidos com sucesso.")
         
-        print("\n--- PASSO 3: GERANDO TABELAS MARKDOWN ---")
         courses_table = generate_markdown_table(alura_data, "courses")
         degrees_table = generate_markdown_table(alura_data, "degrees")
-        print("--- TABELA DE CURSOS ---")
-        print(courses_table)
-        print("--------------------------")
-        print("--- TABELA DE FORMAÇÕES ---")
-        print(degrees_table)
-        print("---------------------------")
-
-        print("\n--- PASSO 4: SUBSTITUINDO SEÇÕES ---")
-        readme_content = replace_section_in_text(readme_content, "ALURA_COURSES", courses_table)
-        readme_content = replace_section_in_text(readme_content, "ALURA_DEGREES", degrees_table)
-        print("Substituição em memória concluída.")
-
-        print("\n--- PASSO 5: PREPARANDO PARA SALVAR ---")
-        print(f"O conteúdo final a ser salvo tem {len(readme_content)} caracteres.")
-        print("--- CONTEÚDO FINAL A SER SALVO ---")
-        print(readme_content)
-        print("------------------------------------")
+        
+        # Aplica a nova função de substituição, uma para cada seção
+        readme_content = replace_section_with_split(readme_content, "ALURA_COURSES", courses_table)
+        readme_content = replace_section_with_split(readme_content, "ALURA_DEGREES", degrees_table)
         
         README_PATH.write_text(readme_content, encoding="utf-8")
         
-        print("\n✅ Script Python finalizado com sucesso.")
-
+        print("✅ README atualizado com sucesso!")
     except Exception as e:
-        print(f"❌ Erro no script Python: {e}")
+        print(f"❌ Erro: {e}")
         exit(1)
