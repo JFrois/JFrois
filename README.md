@@ -106,7 +106,21 @@ Com experiência em Análise de Sistemas, LegalOps e Engenharia de Software, meu
 _[Informações extraídas e atualizadas automaticamente via API pública da Alura]_
 
 <!-- ALURA:START -->
-**Ops! Parece que os dados da Alura ainda não foram carregados. A automação será executada em breve!**
+
+#### 📚 Cursos em Andamento
+| Curso | Progresso |
+| :--- | :---: |
+| Comunicação: como se expressar bem e ser compreendido | `[ 21% ]` |
+| Product Manager: uma jornada em gestão de produto | `[ 0% ]` |
+| Python: avance na Orientação a Objetos e consuma API | `[ 65% ]` |
+| Scripting: automação de tarefas com Python e criação de Pipelines no Jenkins | `[ 2% ]` |
+| Lógica de programação: praticando com desafios | `[ 65% ]` |
+
+#### 🎓 Formações e Planos de Estudo
+| Trilha de Estudo | Tipo | Cursos Concluídos |
+| :--- | :--- | :---: |
+| Desenvolvimento Back-End Python | Carreira | `3 de 39` |
+
 <!-- ALURA:END -->
 
 ---
