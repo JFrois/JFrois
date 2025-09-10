@@ -54,6 +54,23 @@ Com experiência em Análise de Sistemas, LegalOps e Engenharia de Software, meu
 
 ### 🚀 Projetos em Destaque
 
+Aqui estão alguns dos meus projetos mais relevantes, que demonstram minha experiência em **automação, integrações e soluções data-driven**:
+
+- 🔎 [**Buscador**](https://github.com/JFrois/Buscador)  
+  Ferramenta em **Python** para otimizar buscas internas em bancos de dados.  
+  _Impacto: ganho de eficiência na recuperação de informações e suporte a tomadas de decisão._
+
+- 📑 [**Automatizador de Ajuste de Pedidos**](https://github.com/JFrois/Automatizador-de-Ajuste-de-Pedidos)  
+  Aplicativo desktop em **Python** para automatizar o download e processamento de pedidos de compra em PDF.  
+  _Impacto: elimina tarefas manuais repetitivas, aumentando produtividade._
+
+- 🏭 [**Automação de Cadastro de Previsão de Vendas (TOTVS Protheus)**](https://github.com/JFrois/Automacao-Cadastro-Previsao-Vendas)  
+  Bot de **RPA em Python** para automatizar cadastros em sistemas ERP.  
+  _Impacto: redução drástica de erros humanos e otimização de processos de vendas._
+
+- ⚖️ [**Envio de Novos Casos**](https://github.com/JFrois/Envio-novos-casos---Python)  
+  Projeto em **Python + Zapier** para consolidação de dados (ex.: ITBI e movimentações de casos) e envio automatizado.  
+  _Impacto: integração de dados jurídicos e administrativos de forma eficiente._
 
 ---
 
