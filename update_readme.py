@@ -4,8 +4,8 @@ import re
 
 API_URL = "https://www.alura.com.br/api/dashboard/8b6930eefca6d579d24a4a3c73c4cd76a450a20f6842a0de1b6417edcb02dee8"
 README_PATH = Path("README.md")
-START_MARKER = ""
-END_MARKER = ""
+START_MARKER = "<!-- ALURA:START -->"
+END_MARKER = "<!-- ALURA:END -->"
 
 
 def fetch_data(url):
@@ -63,24 +63,28 @@ def generate_degrees_table(data):
 
 
 def update_readme_section(readme_content, new_content):
-    """Substitui o conteúdo entre os marcadores no README."""
-    # Usando regex para encontrar e substituir o conteúdo entre os marcadores
-    # re.DOTALL faz com que o '.' também corresponda a quebras de linha
+    """Atualiza ou insere a seção da Alura no README."""
     pattern = re.compile(
         f"{re.escape(START_MARKER)}(.*?){re.escape(END_MARKER)}", re.DOTALL
     )
 
-    # O novo bloco a ser inserido, mantendo os marcadores
     replacement_block = f"{START_MARKER}\n\n{new_content}\n\n{END_MARKER}"
 
     new_readme_content, num_replacements = pattern.subn(
         replacement_block, readme_content
     )
 
+    # Se não encontrou os marcadores, insere após a seção da Alura
     if num_replacements == 0:
-        raise Exception(
-            f"Erro: Marcadores '{START_MARKER}' e '{END_MARKER}' não encontrados no README.md."
-        )
+        marker_section = "### 👨‍🏫 Meus Estudos na Alura"
+        if marker_section in readme_content:
+            new_readme_content = readme_content.replace(
+                marker_section,
+                f"{marker_section}\n\n{replacement_block}",
+            )
+        else:
+            # fallback: adiciona no final
+            new_readme_content = readme_content.strip() + "\n\n" + replacement_block
 
     return new_readme_content
 
@@ -94,7 +98,7 @@ if __name__ == "__main__":
         courses_table = generate_courses_table(alura_data)
         degrees_table = generate_degrees_table(alura_data)
 
-        # Combina as tabelas em um único bloco de texto
+        # Combina as tabelas em um único bloco
         full_markdown_block = f"{courses_table}\n\n{degrees_table}"
 
         # Atualiza o conteúdo do README

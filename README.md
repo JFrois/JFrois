@@ -105,7 +105,10 @@ Com experiência em Análise de Sistemas, LegalOps e Engenharia de Software, meu
 
 _[Informações extraídas e atualizadas automaticamente via API pública da Alura]_
 
+<!-- ALURA:START -->
 **Ops! Parece que os dados da Alura ainda não foram carregados. A automação será executada em breve!**
+<!-- ALURA:END -->
+
 ---
 
 ### 🌐 Conecte-se Comigo
