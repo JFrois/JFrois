@@ -1,17 +1,17 @@
-<h1>👋 Olá, sou o Juan Frois!</h1>
+<div align="center">
+  <a href="https://github.com/JFrois">
+    <img src="https://media.licdn.com/dms/image/v2/D4D16AQHp-XPQ3Ffskw/profile-displaybackgroundimage-shrink_350_1400/B4DZiv9ZV2GQAo-/0/1755298765673?e=1758153600&v=beta&t=zRZkZhESbuZJ6KgSjhJUzfZhzXh1G_b_KiITkMT-TLg" alt="Banner Profile Juan Frois" />
+  </a>
+  
+  <h1>👋 Olá, sou o Juan Frois!</h1>
   <h3>Engenheiro de Software | Automação | Soluções data-driven.</h3>
 </div>
 
 ---
 
-
----
-
 ### 👨‍💻 Sobre Mim
 
-
 Com experiência em Análise de Sistemas, LegalOps e Engenharia de Software, meu foco é transformar desafios operacionais em código funcional e elegante. Construo soluções que geram impacto real nos negócios.
-
 
 - 🎯 Foco em **automação de processos (RPA)** e desenvolvimento de ferramentas internas.
 - 💡 Apaixonado por criar **soluções data-driven** que otimizam a tomada de decisão.
@@ -19,11 +19,7 @@ Com experiência em Análise de Sistemas, LegalOps e Engenharia de Software, meu
 
 ---
 
-
----
-
 ### 💻 Linguagens e Tecnologias
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
@@ -37,10 +33,7 @@ Com experiência em Análise de Sistemas, LegalOps e Engenharia de Software, meu
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-</p>
-
 ### 🛠️ Ferramentas e Plataformas
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -59,25 +52,17 @@ Com experiência em Análise de Sistemas, LegalOps e Engenharia de Software, meu
 
 ---
 
-</p>
-
----
-
 ### 🚀 Projetos em Destaque
 
-
 <table>
-  <tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="[LINK_PARA_SEU_PROJETO]">Sistema de Automação Contratual</a></h3>
       <p>Uma aplicação desktop (RPA) desenvolvida em Python para automatizar a geração e o preenchimento de contratos a partir de uma base de dados. Reduziu o tempo manual do processo em 90%.</p>
       <p>
-      <p>
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
         <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
         <img src="https://img.shields.io/badge/tkinter-%2377CEFF.svg?style=for-the-badge&logo=python&logoColor=black" alt="Tkinter"/>
-      </p>
       </p>
     </td>
     <td width="50%">
@@ -88,14 +73,9 @@ Com experiência em Análise de Sistemas, LegalOps e Engenharia de Software, meu
 
 ---
 
-
----
-
 ### 📊 Minhas Estatísticas no GitHub
 
-
 <table align="center" width="100%">
-  <tr>
   <tr>
     <td align="center" valign="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=JFrois&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas Gerais do JFrois"/>
@@ -105,26 +85,18 @@ Com experiência em Análise de Sistemas, LegalOps e Engenharia de Software, meu
     </td>
   </tr>
   <tr>
-  <tr>
     <td align="center" valign="top" colspan="2">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFrois&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=900" alt="Linguagens Mais Usadas pelo JFrois"/>
     </td>
   </tr>
 </table>
 
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JFrois&theme=github_dark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
-</p>
-
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=JFrois&limit=5&theme=discord_old_blurple&combine_all_yearly_contributions=true" alt="Top Contributor Stats"/>
-</p>
-
----
-
 </p>
 
 ---
@@ -145,12 +117,11 @@ _[Informações extraídas e atualizadas automaticamente via API pública da Alu
 
 ### ⌛ Wakatime
 
-
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JFrois&theme=blue_navy&hide_border=false&layout=compact" alt="Estatísticas do WakaTime"/>
 
+---
 
 ### 🌐 Conecte-se Comigo
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jfrois/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
