@@ -37,6 +37,7 @@ def generate_markdown_table(data, section):
 
 def replace_section_in_text(text, marker_name, new_content):
     """Substitui o conteúdo entre marcadores em um texto."""
+    # LINHAS CORRIGIDAS:
     start_marker = f""
     end_marker = f""
     
@@ -49,9 +50,11 @@ def replace_section_in_text(text, marker_name, new_content):
 
 if __name__ == "__main__":
     try:
-        # 1. Lê o conteúdo atual do README
+        # 1. Garante que os marcadores existem no README
         readme_content = README_PATH.read_text(encoding="utf-8")
-        
+        if "" not in readme_content or "" not in readme_content:
+            raise ValueError("Marcadores de seção da Alura não encontrados no README.md. Adicione etc.")
+
         # 2. Busca os dados da Alura
         alura_data = fetch_data(API_URL)
         
