@@ -57,7 +57,7 @@ Com experiência em Análise de Sistemas, LegalOps e Engenharia de Software, meu
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="[LINK_PARA_SEU_PROJETO]">Sistema de Automação Contratual</a></h3>
+      <h3><a href="https://github.com/JFrois/Atividades-de-programacao---IFSP">Sistema de Automação Contratual</a></h3>
       <p>Uma aplicação desktop (RPA) desenvolvida em Python para automatizar a geração e o preenchimento de contratos a partir de uma base de dados. Reduziu o tempo manual do processo em 90%.</p>
       <p>
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
@@ -66,7 +66,7 @@ Com experiência em Análise de Sistemas, LegalOps e Engenharia de Software, meu
       </p>
     </td>
     <td width="50%" valign="top">
-      <a href="[LINK_PARA_SEU_PROJETO]"><img src="[LINK_PARA_UM_GIF_OU_IMAGEM_DO_PROJETO]" alt="Demonstração do Projeto"></a>
+      <a href="https://github.com/JFrois/Atividades-de-programacao---IFSP"><img src="https://github.com/JFrois/Atividades-de-programacao---IFSP/blob/main/Calculadora/Calculadora.gif" alt="Demonstração do Projeto"></a>
     </td>
   </tr>
 </table>
