@@ -105,10 +105,6 @@ Com experiência em Análise de Sistemas, LegalOps e Engenharia de Software, meu
 
 _[Informações extraídas e atualizadas automaticamente via API pública da Alura]_
 
-### ⌛ Wakatime
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=JFrois&theme=blue_navy&hide_border=false&layout=compact" alt="Estatísticas do Wakatime"/>
-
 ---
 
 ### 🌐 Conecte-se Comigo
