@@ -120,7 +120,7 @@ _[Informações extraídas e atualizadas automaticamente via API pública da Alu
 #### 🎓 Formações e Planos de Estudo
 | Trilha de Estudo | Tipo | Cursos Concluídos |
 | :--- | :--- | :---: |
-| Desenvolvimento Back-End Python | Carreira | `3 de 39` |
+| Desenvolvimento Back-End Python | Carreira | `4 de 39` |
 
 <!-- ALURA:END -->
 
