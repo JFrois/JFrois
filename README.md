@@ -111,11 +111,11 @@ _[Informações extraídas e atualizadas automaticamente via API pública da Alu
 #### 📚 Cursos em Andamento
 | Curso | Progresso |
 | :--- | :---: |
+| Pensamento computacional: fundamentos da computação e lógica de programação | `[ 25% ]` |
 | Comunicação: como se expressar bem e ser compreendido | `[ 21% ]` |
 | Product Manager: uma jornada em gestão de produto | `[ 0% ]` |
 | Python: avance na Orientação a Objetos e consuma API | `[ 65% ]` |
 | Scripting: automação de tarefas com Python e criação de Pipelines no Jenkins | `[ 2% ]` |
-| Lógica de programação: praticando com desafios | `[ 65% ]` |
 
 #### 🎓 Formações e Planos de Estudo
 | Trilha de Estudo | Tipo | Cursos Concluídos |
