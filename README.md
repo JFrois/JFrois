@@ -111,7 +111,7 @@ _[Informações extraídas e atualizadas automaticamente via API pública da Alu
 #### 📚 Cursos em Andamento
 | Curso | Progresso |
 | :--- | :---: |
-| Pensamento computacional: fundamentos da computação e lógica de programação | `[ 38% ]` |
+| Pensamento computacional: fundamentos da computação e lógica de programação | `[ 54% ]` |
 | Comunicação: como se expressar bem e ser compreendido | `[ 21% ]` |
 | Product Manager: uma jornada em gestão de produto | `[ 0% ]` |
 | Python: avance na Orientação a Objetos e consuma API | `[ 65% ]` |
