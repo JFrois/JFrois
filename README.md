@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://github.com/JFrois">
-    <img src="https://media.licdn.com/dms/image/v2/D4D16AQHp-XPQ3Ffskw/profile-displaybackgroundimage-shrink_350_1400/B4DZiv9ZV2GQAo-/0/1755298765673?e=1758153600&v=beta&t=zRZkZhESbuZJ6KgSjhJUzfZhzXh1G_b_KiITkMT-TLg" alt="Banner Profile Juan Frois" />
-  </a>
-  
+<div align="center">  
   <h1>👋 Olá, sou o Juan Frois!</h1>
   <h3>Engenheiro de Software | Automação | Soluções data-driven.</h3>
 </div>
