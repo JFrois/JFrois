@@ -56,8 +56,8 @@ Aqui estão alguns dos meus projetos mais relevantes, que demonstram minha exper
   Ferramenta em **Python** para otimizar buscas internas em bancos de dados.  
   _Impacto: ganho de eficiência na recuperação de informações e suporte a tomadas de decisão._
 
-- 📑 [**Automatizador de Ajuste de Pedidos**](https://github.com/JFrois/Automatizador-de-Ajuste-de-Pedidos)  
-  Aplicativo desktop em **Python** para automatizar o download e processamento de pedidos de compra em PDF.  
+- 📑 [**RPA - Processamento de PDFs**](https://github.com/JFrois/Automatizador-de-Ajuste-de-Pedidos)  
+  Aplicativo desktop em **Python** para automatizar o download e processamento de pedidos de vendas em PDF.  
   _Impacto: elimina tarefas manuais repetitivas, aumentando produtividade._
 
 - 🏭 [**Automação de Cadastro de Previsão de Vendas (TOTVS Protheus)**](https://github.com/JFrois/Automacao-Cadastro-Previsao-Vendas)  
