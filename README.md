@@ -116,7 +116,7 @@ _[Informações extraídas e atualizadas automaticamente via API pública da Alu
 #### 🎓 Formações e Planos de Estudo
 | Trilha de Estudo | Tipo | Cursos Concluídos |
 | :--- | :--- | :---: |
-| Desenvolvimento Back-End Python | Carreira | `4 de 37` |
+| Ciência de Dados | Carreira | `1 de 71` |
 
 <!-- ALURA:END -->
 
