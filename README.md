@@ -107,11 +107,11 @@ _[Informações extraídas e atualizadas automaticamente via API pública da Alu
 #### 📚 Cursos em Andamento
 | Curso | Progresso |
 | :--- | :---: |
+| Python para Data Science: primeiros passos | `[ 14% ]` |
+| Visão Computacional: reconhecimento de texto com OCR e OpenCV | `[ 8% ]` |
 | Pensamento computacional: fundamentos da computação e lógica de programação | `[ 74% ]` |
 | Comunicação: como se expressar bem e ser compreendido | `[ 21% ]` |
 | Product Manager: uma jornada em gestão de produto | `[ 0% ]` |
-| Python: avance na Orientação a Objetos e consuma API | `[ 65% ]` |
-| Scripting: automação de tarefas com Python e criação de Pipelines no Jenkins | `[ 2% ]` |
 
 #### 🎓 Formações e Planos de Estudo
 | Trilha de Estudo | Tipo | Cursos Concluídos |
