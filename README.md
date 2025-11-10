@@ -107,7 +107,7 @@ _[Informações extraídas e atualizadas automaticamente via API pública da Alu
 #### 📚 Cursos em Andamento
 | Curso | Progresso |
 | :--- | :---: |
-| Python para Data Science: primeiros passos | `[ 28% ]` |
+| Python para Data Science: primeiros passos | `[ 35% ]` |
 | Visão Computacional: reconhecimento de texto com OCR e OpenCV | `[ 8% ]` |
 | Pensamento computacional: fundamentos da computação e lógica de programação | `[ 74% ]` |
 | Comunicação: como se expressar bem e ser compreendido | `[ 21% ]` |
