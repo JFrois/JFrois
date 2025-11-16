@@ -107,16 +107,16 @@ _[Informações extraídas e atualizadas automaticamente via API pública da Alu
 #### 📚 Cursos em Andamento
 | Curso | Progresso |
 | :--- | :---: |
-| Python para Data Science: primeiros passos | `[ 79% ]` |
 | Visão Computacional: reconhecimento de texto com OCR e OpenCV | `[ 8% ]` |
 | Pensamento computacional: fundamentos da computação e lógica de programação | `[ 74% ]` |
 | Comunicação: como se expressar bem e ser compreendido | `[ 21% ]` |
 | Product Manager: uma jornada em gestão de produto | `[ 0% ]` |
+| Python: avance na Orientação a Objetos e consuma API | `[ 65% ]` |
 
 #### 🎓 Formações e Planos de Estudo
 | Trilha de Estudo | Tipo | Cursos Concluídos |
 | :--- | :--- | :---: |
-| Ciência de Dados | Carreira | `1 de 71` |
+| Ciência de Dados | Carreira | `2 de 71` |
 
 <!-- ALURA:END -->
 
