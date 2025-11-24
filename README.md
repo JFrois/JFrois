@@ -107,11 +107,11 @@ _[Informações extraídas e atualizadas automaticamente via API pública da Alu
 #### 📚 Cursos em Andamento
 | Curso | Progresso |
 | :--- | :---: |
-| Praticando Python: laços for e while | `[ 7% ]` |
 | Lógica de programação: praticando com desafios | `[ 65% ]` |
 | Visão Computacional: reconhecimento de texto com OCR e OpenCV | `[ 8% ]` |
 | Pensamento computacional: fundamentos da computação e lógica de programação | `[ 74% ]` |
 | Comunicação: como se expressar bem e ser compreendido | `[ 21% ]` |
+| Product Manager: uma jornada em gestão de produto | `[ 0% ]` |
 
 #### 🎓 Formações e Planos de Estudo
 | Trilha de Estudo | Tipo | Cursos Concluídos |
