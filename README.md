@@ -107,11 +107,11 @@ _[Informações extraídas e atualizadas automaticamente via API pública da Alu
 #### 📚 Cursos em Andamento
 | Curso | Progresso |
 | :--- | :---: |
-| Python para Dados: trabalhando com funções, estruturas de dados e exceções | `[ 40% ]` |
+| Dashboard com Tableau: conceitos essenciais | `[ 31% ]` |
+| Python para Dados: trabalhando com funções, estruturas de dados e exceções | `[ 44% ]` |
 | Lógica de programação: praticando com desafios | `[ 65% ]` |
 | Visão Computacional: reconhecimento de texto com OCR e OpenCV | `[ 8% ]` |
 | Pensamento computacional: fundamentos da computação e lógica de programação | `[ 74% ]` |
-| Comunicação: como se expressar bem e ser compreendido | `[ 21% ]` |
 
 #### 🎓 Formações e Planos de Estudo
 | Trilha de Estudo | Tipo | Cursos Concluídos |
