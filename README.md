@@ -116,6 +116,7 @@ _[Informações extraídas e atualizadas automaticamente via API pública da Alu
 #### 🎓 Formações e Planos de Estudo
 | Trilha de Estudo | Tipo | Cursos Concluídos |
 | :--- | :--- | :---: |
+| Análise de Dados | Carreira | `2 de 60` |
 | Ciência de Dados | Carreira | `2 de 71` |
 
 <!-- ALURA:END -->
