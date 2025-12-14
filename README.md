@@ -107,7 +107,7 @@ _[Informações extraídas e atualizadas automaticamente via API pública da Alu
 #### 📚 Cursos em Andamento
 | Curso | Progresso |
 | :--- | :---: |
-| Python para Dados: trabalhando com funções, estruturas de dados e exceções | `[ 59% ]` |
+| Python para Dados: trabalhando com funções, estruturas de dados e exceções | `[ 71% ]` |
 | Dashboard com Tableau: conceitos essenciais | `[ 31% ]` |
 | Lógica de programação: praticando com desafios | `[ 65% ]` |
 | Visão Computacional: reconhecimento de texto com OCR e OpenCV | `[ 8% ]` |
