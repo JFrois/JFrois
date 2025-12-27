@@ -107,11 +107,11 @@ _[Informações extraídas e atualizadas automaticamente via API pública da Alu
 #### 📚 Cursos em Andamento
 | Curso | Progresso |
 | :--- | :---: |
+| SQLite online: conhecendo instruções SQL | `[ 62% ]` |
 | Python para Dados: trabalhando com funções, estruturas de dados e exceções | `[ 71% ]` |
 | Dashboard com Tableau: conceitos essenciais | `[ 31% ]` |
 | Lógica de programação: praticando com desafios | `[ 65% ]` |
 | Visão Computacional: reconhecimento de texto com OCR e OpenCV | `[ 8% ]` |
-| Pensamento computacional: fundamentos da computação e lógica de programação | `[ 74% ]` |
 
 #### 🎓 Formações e Planos de Estudo
 | Trilha de Estudo | Tipo | Cursos Concluídos |
