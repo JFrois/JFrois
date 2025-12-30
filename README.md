@@ -107,7 +107,7 @@ _[Informações extraídas e atualizadas automaticamente via API pública da Alu
 #### 📚 Cursos em Andamento
 | Curso | Progresso |
 | :--- | :---: |
-| SQLite online: conhecendo instruções SQL | `[ 64% ]` |
+| SQLite online: conhecendo instruções SQL | `[ 92% ]` |
 | Python para Dados: trabalhando com funções, estruturas de dados e exceções | `[ 71% ]` |
 | Dashboard com Tableau: conceitos essenciais | `[ 31% ]` |
 | Lógica de programação: praticando com desafios | `[ 65% ]` |
