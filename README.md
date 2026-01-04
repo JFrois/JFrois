@@ -116,6 +116,7 @@ _[Informações extraídas e atualizadas automaticamente via API pública da Alu
 #### 🎓 Formações e Planos de Estudo
 | Trilha de Estudo | Tipo | Cursos Concluídos |
 | :--- | :--- | :---: |
+| Análise de Dados e Melhoria de Produto | Plano Pessoal | `0 de 3` |
 | Data Science | Degree | `0 de 5` |
 | Data-Driven UX: interpretando e visualizando dados | Degree | `0 de 3` |
 | Data-driven UX: coletando e analisando dados de um produto | Degree | `0 de 3` |
