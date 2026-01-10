@@ -29,8 +29,6 @@ Projetos de Impacto e Engenharia:
 
 O meu objetivo é atuar como solucionador de problemas através de tecnologia, aplicando esta capacidade de criar ferramentas que geram eficiência operacional e valor estratégico.
 
-Vamos conectar-nos e discutir como a tecnologia pode alavancar resultados?
-
 ---
 
 ### 💻 Stack
