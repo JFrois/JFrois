@@ -1,22 +1,39 @@
 <div align="center">  
   <h1>👋 Olá, sou o Juan Frois!</h1>
-  <h3>Engenheiro de Software | Automação | Soluções data-driven.</h3>
+  <h3>Engenheiro de software | Desenvolvedor Python | Automação (RPA) | Dados</h3>
 </div>
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-Com experiência em Análise de Sistemas, LegalOps e Engenharia de Software, meu foco é transformar desafios operacionais em código funcional e elegante. Construo soluções que geram impacto real nos negócios.
+<h3>Do Operacional à Engenharia: Resolvendo problemas complexos com tecnologia</h3>
 
-- 🎯 Foco em **automação de processos (RPA)** e desenvolvimento de ferramentas internas.
-- 💡 Apaixonado por criar **soluções data-driven** que otimizam a tomada de decisão.
-- 🚀 Busco ativamente oportunidades para aplicar minha paixão por eficiência e gerar valor através do software.
+A minha trajetória profissional em grandes empresas como Loft, QuintoAndar e VOSS Automotive moldou o meu perfil de desenvolvedor: não escrevo apenas código, crio soluções que resolvem dores reais do negócio.
+
+Com uma visão híbrida entre Operações e Tecnologia, especializei-me em identificar gargalos e construir ferramentas robustas para os solucionar. O meu foco é Engenharia de Software, utilizando Python tanto para Automação (RPA) quanto para Análise de Dados.
+
+Projetos de Impacto e Engenharia:
+
+📊 [Business Intelligence & Estratégia (Aftermarket)](https://github.com/JFrois/Analise-Aftermarket): Desenvolvi uma aplicação corporativa (Python, Streamlit, SQL) para a VOSS Automotive que automatizou a análise de lacunas de vendas. A ferramenta cruza dados de clientes OEM (montadoras) para identificar oportunidades de venda no mercado de reposição, gerando leads qualificados para a equipa comercial.
+
+🤖 [Automação Desktop & RPA (Processador de Pedidos)](https://github.com/JFrois/RPA-Processamento_PDFs): Criei uma aplicação Desktop completa para automatizar o ciclo de pedidos em portais B2B. O robô realiza o download e scraping de PDFs, estrutura os dados críticos e gera relatórios consolidados em Excel com notificações automáticas por e-mail, eliminando horas de trabalho manual.
+
+🏭 [**Automação de Cadastro de Previsão de Vendas (TOTVS Protheus)**](https://github.com/JFrois/Automacao-Cadastro-Previsao-Vendas): Bot de **RPA em Python** para automatizar cadastros em sistemas ERP. 
+
+⚖️ [**Envio de Novos Casos**](https://github.com/JFrois/Envio-novos-casos---Python): Projeto em **Python + Zapier** para consolidação de dados (ex.: ITBI e movimentações de casos) e envio automatizado.  
+
+🛠️ Linguagens: Python (Foco em Automação e Dados), SQL, JavaScript. <br>
+⚙️ Automação & Apps: Selenium WebDriver, RPA, Streamlit, Custom Tkinter (GUI). <br>
+📈 Dados: SQL Server, Pandas, ETL, Power BI.
+
+O meu objetivo é atuar como solucionador de problemas através de tecnologia, aplicando esta capacidade de criar ferramentas que geram eficiência operacional e valor estratégico.
+
+Vamos conectar-nos e discutir como a tecnologia pode alavancar resultados?
 
 ---
 
-### 💻 Linguagens e Tecnologias
-
+### 💻 Stack
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -45,28 +62,6 @@ Com experiência em Análise de Sistemas, LegalOps e Engenharia de Software, meu
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
-
----
-
-### 🚀 Projetos em Destaque
-
-Aqui estão alguns dos meus projetos mais relevantes, que demonstram minha experiência em **automação, integrações e soluções data-driven**:
-
-- 🔎 [**Buscador**](https://github.com/JFrois/Buscador)  
-  Ferramenta em **Python** para otimizar buscas internas em bancos de dados.  
-  _Impacto: ganho de eficiência na recuperação de informações e suporte a tomadas de decisão._
-
-- 📑 [**RPA - Processamento de PDFs**](https://github.com/JFrois/Automatizador-de-Ajuste-de-Pedidos)  
-  Aplicativo desktop em **Python** para automatizar o download e processamento de pedidos de vendas em PDF.  
-  _Impacto: elimina tarefas manuais repetitivas, aumentando produtividade._
-
-- 🏭 [**Automação de Cadastro de Previsão de Vendas (TOTVS Protheus)**](https://github.com/JFrois/Automacao-Cadastro-Previsao-Vendas)  
-  Bot de **RPA em Python** para automatizar cadastros em sistemas ERP.  
-  _Impacto: redução drástica de erros humanos e otimização de processos de vendas._
-
-- ⚖️ [**Envio de Novos Casos**](https://github.com/JFrois/Envio-novos-casos---Python)  
-  Projeto em **Python + Zapier** para consolidação de dados (ex.: ITBI e movimentações de casos) e envio automatizado.  
-  _Impacto: integração de dados jurídicos e administrativos de forma eficiente._
 
 ---
 
