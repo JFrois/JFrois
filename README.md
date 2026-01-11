@@ -100,15 +100,16 @@ _[Informações extraídas e atualizadas automaticamente via API pública da Alu
 #### 📚 Cursos em Andamento
 | Curso | Progresso |
 | :--- | :---: |
+| Data Analysis: Google Sheets | `[ 13% ]` |
+| Excel: domine o editor de planilhas | `[ 2% ]` |
 | Python para Dados: trabalhando com funções, estruturas de dados e exceções | `[ 76% ]` |
 | SQLite online: conhecendo instruções SQL | `[ 92% ]` |
 | Dashboard com Tableau: conceitos essenciais | `[ 31% ]` |
-| Lógica de programação: praticando com desafios | `[ 65% ]` |
-| Visão Computacional: reconhecimento de texto com OCR e OpenCV | `[ 8% ]` |
 
 #### 🎓 Formações e Planos de Estudo
 | Trilha de Estudo | Tipo | Cursos Concluídos |
 | :--- | :--- | :---: |
+| Data Analysis com Google Sheets | Degree | `0 de 4` |
 | Data Science | Degree | `0 de 5` |
 | Data-driven UX: coletando e analisando dados de um produto | Degree | `0 de 3` |
 | Análise de Dados | Carreira | `2 de 60` |
