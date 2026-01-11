@@ -1,6 +1,6 @@
 <div align="center">  
   <h1>👋 Olá, sou o Juan Frois!</h1>
-  <h3>Engenheiro de software | Desenvolvedor Python | Automação (RPA) | Dados</h3>
+  <h3>Desenvolvedor Python | Automação (RPA) | Dados</h3>
 </div>
 
 ---
