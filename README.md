@@ -112,7 +112,7 @@ _[Informações extraídas e atualizadas automaticamente via API pública da Alu
 | Data Analysis com Google Sheets | Degree | `0 de 4` |
 | Data Science | Degree | `0 de 5` |
 | Data-driven UX: coletando e analisando dados de um produto | Degree | `0 de 3` |
-| Análise de Dados | Carreira | `2 de 60` |
+| Análise de Dados | Carreira | `1 de 59` |
 | Ciência de Dados | Carreira | `1 de 70` |
 
 <!-- ALURA:END -->
