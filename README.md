@@ -100,7 +100,7 @@ _[Informações extraídas e atualizadas automaticamente via API pública da Alu
 #### 📚 Cursos em Andamento
 | Curso | Progresso |
 | :--- | :---: |
-| Data Analysis: previsões com Google Sheets | `[ 4% ]` |
+| Data Analysis: previsões com Google Sheets | `[ 33% ]` |
 | Excel: domine o editor de planilhas | `[ 2% ]` |
 | Python para Dados: trabalhando com funções, estruturas de dados e exceções | `[ 76% ]` |
 | SQLite online: conhecendo instruções SQL | `[ 92% ]` |
