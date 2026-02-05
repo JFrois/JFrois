@@ -102,7 +102,7 @@ _[Informações extraídas e atualizadas automaticamente via API pública da Alu
 | :--- | :---: |
 | Data Analysis: previsões com Google Sheets | `[ 33% ]` |
 | Excel: domine o editor de planilhas | `[ 2% ]` |
-| Python para Dados: trabalhando com funções, estruturas de dados e exceções | `[ 76% ]` |
+| Python para Dados: trabalhando com funções, estruturas de dados e exceções | `[ 69% ]` |
 | SQLite online: conhecendo instruções SQL | `[ 92% ]` |
 | Dashboard com Tableau: conceitos essenciais | `[ 31% ]` |
 
