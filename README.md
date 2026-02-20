@@ -100,11 +100,56 @@ _[Informações extraídas e atualizadas automaticamente via API pública da Alu
 #### 📚 Cursos em Andamento
 | Curso | Progresso |
 | :--- | :---: |
+| Linux I: conhecendo e utilizando o terminal | `[ 98% ]` |
+| Python: começando com a linguagem | `[ 100% ]` |
+| Python: avançando na linguagem | `[ 100% ]` |
+| Comunicação: como se expressar bem e ser compreendido | `[ 2% ]` |
+| Relacionamento interpessoal: aprenda a lidar melhor com você e com o outro | `[ 1% ]` |
+| Oratória parte 2: apresentações em público | `[ 1% ]` |
+| Comunicação não violenta: consciência para agir | `[ 0% ]` |
+| Estatística com Python: frequências e medidas | `[ 8% ]` |
+| Comunicação não violenta parte 2: mantendo a empatia | `[ 0% ]` |
+| Storytelling: visão de negócios e desenvolvimento pessoal | `[ 2% ]` |
+| Lógica de programação: comece em lógica com o jogo Pong e JavaScript | `[ 95% ]` |
+| Lógica de programação: laços e listas com JavaScript | `[ 100% ]` |
+| Comunicação assertiva: reduzindo conflitos e frustrações | `[ 0% ]` |
+| Data Analysis: Google Sheets | `[ 100% ]` |
+| Arquitetura de computadores: por trás de como seu programa funciona | `[ 100% ]` |
+| Transição de carreira: um guia para a área da tecnologia | `[ 0% ]` |
 | Data Analysis: previsões com Google Sheets | `[ 33% ]` |
-| Excel: domine o editor de planilhas | `[ 2% ]` |
+| Ferramentas para agilidade: visão geral sobre controle de projetos e produtos | `[ 73% ]` |
+| Dashboard com Tableau: conceitos essenciais | `[ 31% ]` |
+| JavaScript para Web: Crie páginas dinâmicas | `[ 85% ]` |
+| Tableau: construindo dashboards e histórias | `[ 1% ]` |
+| Product Manager: uma jornada em gestão de produto | `[ 0% ]` |
+| HTML e CSS: praticando HTML/CSS | `[ 89% ]` |
+| Roadmap: como criar e manter o mapa de produto | `[ 100% ]` |
+| Visão Computacional: reconhecimento de texto com OCR e OpenCV | `[ 8% ]` |
+| HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags | `[ 92% ]` |
+| HTML e CSS: Classes, posicionamento e Flexbox | `[ 87% ]` |
+| HTML e CSS: cabeçalho, footer e variáveis CSS | `[ 86% ]` |
+| HTML e CSS: trabalhando com responsividade e publicação de projetos | `[ 85% ]` |
+| Python para Dados: primeiros passos | `[ 98% ]` |
 | Python para Dados: trabalhando com funções, estruturas de dados e exceções | `[ 69% ]` |
 | SQLite online: conhecendo instruções SQL | `[ 92% ]` |
-| Dashboard com Tableau: conceitos essenciais | `[ 31% ]` |
+| Comunicação: como se expressar bem e ser compreendido | `[ 21% ]` |
+| Excel: domine o editor de planilhas | `[ 2% ]` |
+| Lógica de programação: mergulhe em programação com JavaScript | `[ 92% ]` |
+| Lógica de programação: explore funções e listas | `[ 97% ]` |
+| Figma: conhecendo a ferramenta | `[ 97% ]` |
+| Git e GitHub: compartilhando e colaborando em projetos | `[ 96% ]` |
+| Lógica de programação: praticando com desafios | `[ 65% ]` |
+| Python: crie a sua primeira aplicação | `[ 98% ]` |
+| Python: aplicando a Orientação a Objetos | `[ 97% ]` |
+| Python: avance na Orientação a Objetos e consuma API | `[ 65% ]` |
+| Scripting: automação de tarefas com Python e criação de Pipelines no Jenkins | `[ 2% ]` |
+| Começando em Programação: carreira e primeiros passos | `[ 100% ]` |
+| Praticando Python: laços for e while | `[ 100% ]` |
+| Praticando Python: condicionais if, elif e else | `[ 100% ]` |
+| Pensamento computacional: fundamentos da computação e lógica de programação | `[ 73% ]` |
+| Carreira Cientista de Dados: Boas-vindas e primeiros passos | `[ 100% ]` |
+| Carreira Análise de Dados: Boas-vindas e primeiros passos | `[ 95% ]` |
+| Carreira Desenvolvimento Back-End Python: Boas-vindas e primeiros passos | `[ 100% ]` |
 
 #### 🎓 Formações e Planos de Estudo
 | Trilha de Estudo | Tipo | Cursos Concluídos |
