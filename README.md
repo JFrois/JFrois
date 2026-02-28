@@ -1,177 +1,82 @@
-<div align="center">  
-  <h1>👋 Olá, sou o Juan Frois!</h1>
-  <h3>Desenvolvedor Python | Automação (RPA) | Dados</h3>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=24&duration=4000&pause=1000&color=7392E0&center=false&vCenter=true&width=800&lines=>+Inicializando+perfil+de+Juan+Frois...;>+Carregando+módulos+de+Automação+(RPA)...;>+Estruturando+pipelines+de+Dados...;>+Acesso+concedido.+Sistema+online.)](https://github.com/JFrois)
+
+### Desenvolvedor Python | Automação (RPA) | Dados
+*> Do Operacional à Engenharia: Resolvendo problemas complexos com tecnologia.*
+
+![Visitantes](https://komarev.com/ghpvc/?username=JFrois&color=7392E0&style=for-the-badge&label=VISITANTES)
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-<h3>Do Operacional à Engenharia: Resolvendo problemas complexos com tecnologia</h3>
+A minha trajetória profissional em grandes empresas como Loft, QuintoAndar e VOSS Automotive moldou o meu perfil de desenvolvedor: **não escrevo apenas código, crio soluções que resolvem dores reais do negócio.**
 
-A minha trajetória profissional em grandes empresas como Loft, QuintoAndar e VOSS Automotive moldou o meu perfil de desenvolvedor: não escrevo apenas código, crio soluções que resolvem dores reais do negócio.
+Com uma visão híbrida entre Operações e Tecnologia, especializei-me em identificar gargalos e construir ferramentas robustas para os solucionar. O meu foco é Engenharia de Software, utilizando Python tanto para Automação (RPA) quanto para Análise de Dados. O meu objetivo é atuar como solucionador de problemas, gerando eficiência operacional e valor estratégico.
 
-Com uma visão híbrida entre Operações e Tecnologia, especializei-me em identificar gargalos e construir ferramentas robustas para os solucionar. O meu foco é Engenharia de Software, utilizando Python tanto para Automação (RPA) quanto para Análise de Dados.
+### ⚙️ Arquitetura em Destaque: Robô Processador de Pedidos
 
-Projetos de Impacto e Engenharia:
+Para ilustrar a minha abordagem à resolução de problemas, aqui está a arquitetura de uma das minhas soluções de RPA que eliminou horas de trabalho manual em portais B2B:
 
-📊 [Business Intelligence & Estratégia (Aftermarket)](https://github.com/JFrois/Analise-Aftermarket): Desenvolvi uma aplicação corporativa (Python, Streamlit, SQL) para a VOSS Automotive que automatizou a análise de lacunas de vendas. A ferramenta cruza dados de clientes OEM (montadoras) para identificar oportunidades de venda no mercado de reposição, gerando leads qualificados para a equipa comercial.
+```mermaid
+graph LR
+    A[🌐 Portal B2B] -->|Scraping & Download| B(🤖 Robô Python)
+    B -->|Extração de Dados| C{📄 Leitura de PDFs}
+    C -->|Estruturação| D[(📊 Relatório Excel)]
+    D -->|Disparo Automático| E[✉️ Notificação por E-mail]
+    
+    style A fill:#0d1117,stroke:#73C2A9,stroke-width:2px,color:#73C2A9
+    style B fill:#000000,stroke:#7392E0,stroke-width:2px,color:#7392E0
+    style C fill:#0d1117,stroke:#71A5CA,stroke-width:2px,color:#71A5CA
+    style D fill:#000000,stroke:#7392E0,stroke-width:2px,color:#7392E0
+    style E fill:#0d1117,stroke:#73C2A9,stroke-width:2px,color:#73C2A9
+```
 
-🤖 [Automação Desktop & RPA (Processador de Pedidos)](https://github.com/JFrois/RPA-Processamento_PDFs): Criei uma aplicação Desktop completa para automatizar o ciclo de pedidos em portais B2B. O robô realiza o download e scraping de PDFs, estrutura os dados críticos e gera relatórios consolidados em Excel com notificações automáticas por e-mail, eliminando horas de trabalho manual.
+### 🚀 Projetos de Impacto
 
-🏭 [**Automação de Cadastro de Previsão de Vendas (TOTVS Protheus)**](https://github.com/JFrois/Automacao-Cadastro-Previsao-Vendas): Bot de **RPA em Python** para automatizar cadastros em sistemas ERP. 
-
-⚖️ [**Envio de Novos Casos**](https://github.com/JFrois/Envio-novos-casos---Python): Projeto em **Python + Zapier** para consolidação de dados (ex.: ITBI e movimentações de casos) e envio automatizado.  
-
-🛠️ Linguagens: Python (Foco em Automação e Dados), SQL, JavaScript. <br>
-⚙️ Automação & Apps: Selenium WebDriver, RPA, Streamlit, Custom Tkinter (GUI). <br>
-📈 Dados: SQL Server, Pandas, ETL, Power BI.
-
-O meu objetivo é atuar como solucionador de problemas através de tecnologia, aplicando esta capacidade de criar ferramentas que geram eficiência operacional e valor estratégico.
-
----
-
-### 💻 Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-### 🛠️ Ferramentas e Plataformas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/Confluence-%23172B44.svg?style=for-the-badge&logo=Confluence&logoColor=white" alt="Confluence"/>
-  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello"/>
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" alt="Twilio"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
+* 📊 **[Business Intelligence & Estratégia (Aftermarket)](https://github.com/JFrois/Analise-Aftermarket):** Aplicação corporativa (Python, Streamlit, SQL) para a VOSS Automotive. Cruza dados de clientes OEM para identificar oportunidades de venda no mercado de reposição, gerando leads qualificados.
+* 🤖 **[Automação Desktop & RPA (Processador de Pedidos)](https://github.com/JFrois/RPA-Processamento_PDFs):** Aplicação Desktop completa descrita no fluxo acima. Estrutura dados críticos e gera relatórios consolidados.
+* 🏭 **[Automação de Cadastro (TOTVS Protheus)](https://github.com/JFrois/Automacao-Cadastro-Previsao-Vendas):** Bot de RPA em Python para automatizar cadastros complexos em sistemas ERP.
+* ⚖️ **[Envio de Novos Casos](https://github.com/JFrois/Envio-novos-casos---Python):** Projeto em Python + Zapier para consolidação de dados (ex.: ITBI) e envio automatizado.
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 💻 Stack Tecnológico e Ferramentas
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=JFrois&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas Gerais do JFrois"/>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=JFrois&theme=blue_navy&hide_border=false" alt="Sequência de Contribuições do JFrois"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFrois&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=900" alt="Linguagens Mais Usadas pelo JFrois"/>
-    </td>
-  </tr>
-</table>
+<details>
+  <summary><b>🛠️ Clica para ver as minhas Linguagens e Ferramentas</b></summary>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JFrois&theme=github_dark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=JFrois&limit=5&theme=discord_old_blurple&combine_all_yearly_contributions=true" alt="Top Contributor Stats"/>
-</p>
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=7392E0) ![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=7392E0) ![Postgres](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=7392E0) ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=7392E0) ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=7392E0) ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=7392E0) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=7392E0) ![HTML/CSS](https://img.shields.io/badge/HTML5_%26_CSS3-000000?style=for-the-badge&logo=html5&logoColor=7392E0)
+
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=7392E0) ![Git](https://img.shields.io/badge/Git_%26_GitHub-000000?style=for-the-badge&logo=github&logoColor=7392E0) ![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=7392E0) ![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=7392E0) ![Selenium](https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium&logoColor=7392E0) ![Jira](https://img.shields.io/badge/Jira_%26_Confluence-000000?style=for-the-badge&logo=jira&logoColor=7392E0) ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=7392E0)
+
+</details>
 
 ---
 
-### 👨‍🏫 Meus Estudos na Alura
+### 📡 Telemetria em Tempo Real
 
-_[Informações extraídas e atualizadas automaticamente via API pública da Alura]_
-
-<!-- ALURA:START -->
-
-#### 📚 Cursos em Andamento
-| Curso | Progresso |
-| :--- | :---: |
-| Linux I: conhecendo e utilizando o terminal | `[ 98% ]` |
-| Python: começando com a linguagem | `[ 100% ]` |
-| Python: avançando na linguagem | `[ 100% ]` |
-| Comunicação: como se expressar bem e ser compreendido | `[ 2% ]` |
-| Relacionamento interpessoal: aprenda a lidar melhor com você e com o outro | `[ 1% ]` |
-| Oratória parte 2: apresentações em público | `[ 1% ]` |
-| Comunicação não violenta: consciência para agir | `[ 0% ]` |
-| Estatística com Python: frequências e medidas | `[ 8% ]` |
-| Comunicação não violenta parte 2: mantendo a empatia | `[ 0% ]` |
-| Storytelling: visão de negócios e desenvolvimento pessoal | `[ 2% ]` |
-| Lógica de programação: comece em lógica com o jogo Pong e JavaScript | `[ 95% ]` |
-| Lógica de programação: laços e listas com JavaScript | `[ 100% ]` |
-| Comunicação assertiva: reduzindo conflitos e frustrações | `[ 0% ]` |
-| Data Analysis: Google Sheets | `[ 100% ]` |
-| Arquitetura de computadores: por trás de como seu programa funciona | `[ 100% ]` |
-| Transição de carreira: um guia para a área da tecnologia | `[ 0% ]` |
-| Data Analysis: previsões com Google Sheets | `[ 33% ]` |
-| Ferramentas para agilidade: visão geral sobre controle de projetos e produtos | `[ 73% ]` |
-| Dashboard com Tableau: conceitos essenciais | `[ 31% ]` |
-| JavaScript para Web: Crie páginas dinâmicas | `[ 85% ]` |
-| Tableau: construindo dashboards e histórias | `[ 1% ]` |
-| Product Manager: uma jornada em gestão de produto | `[ 0% ]` |
-| HTML e CSS: praticando HTML/CSS | `[ 89% ]` |
-| Roadmap: como criar e manter o mapa de produto | `[ 100% ]` |
-| Visão Computacional: reconhecimento de texto com OCR e OpenCV | `[ 8% ]` |
-| HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags | `[ 92% ]` |
-| HTML e CSS: Classes, posicionamento e Flexbox | `[ 87% ]` |
-| HTML e CSS: cabeçalho, footer e variáveis CSS | `[ 86% ]` |
-| HTML e CSS: trabalhando com responsividade e publicação de projetos | `[ 85% ]` |
-| Python para Dados: primeiros passos | `[ 98% ]` |
-| Python para Dados: trabalhando com funções, estruturas de dados e exceções | `[ 69% ]` |
-| SQLite online: conhecendo instruções SQL | `[ 92% ]` |
-| Comunicação: como se expressar bem e ser compreendido | `[ 21% ]` |
-| Excel: domine o editor de planilhas | `[ 2% ]` |
-| Lógica de programação: mergulhe em programação com JavaScript | `[ 92% ]` |
-| Lógica de programação: explore funções e listas | `[ 97% ]` |
-| Figma: conhecendo a ferramenta | `[ 97% ]` |
-| Git e GitHub: compartilhando e colaborando em projetos | `[ 96% ]` |
-| Lógica de programação: praticando com desafios | `[ 65% ]` |
-| Python: crie a sua primeira aplicação | `[ 98% ]` |
-| Python: aplicando a Orientação a Objetos | `[ 97% ]` |
-| Python: avance na Orientação a Objetos e consuma API | `[ 65% ]` |
-| Scripting: automação de tarefas com Python e criação de Pipelines no Jenkins | `[ 2% ]` |
-| Começando em Programação: carreira e primeiros passos | `[ 100% ]` |
-| Praticando Python: laços for e while | `[ 100% ]` |
-| Praticando Python: condicionais if, elif e else | `[ 100% ]` |
-| Pensamento computacional: fundamentos da computação e lógica de programação | `[ 73% ]` |
-| Carreira Cientista de Dados: Boas-vindas e primeiros passos | `[ 100% ]` |
-| Carreira Análise de Dados: Boas-vindas e primeiros passos | `[ 95% ]` |
-| Carreira Desenvolvimento Back-End Python: Boas-vindas e primeiros passos | `[ 100% ]` |
-
-#### 🎓 Formações e Planos de Estudo
-| Trilha de Estudo | Tipo | Cursos Concluídos |
-| :--- | :--- | :---: |
-| Data Analysis com Google Sheets | Degree | `1 de 4` |
-| Data Science | Degree | `0 de 5` |
-| Data-driven UX: coletando e analisando dados de um produto | Degree | `0 de 3` |
-| Análise de Dados | Carreira | `1 de 59` |
-| Ciência de Dados | Carreira | `1 de 70` |
-
-<!-- ALURA:END -->
+*Gráfico dinâmico atualizado via GitHub Actions com o meu tempo de código e linguagens mais usadas na última semana.*
 
 ---
 
-### 🌐 Conecte-se Comigo
+### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jfrois/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:contatojuanfrois@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://discordapp.com/users/533447805340090388" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://www.instagram.com/devfrois/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://stackoverflow.com/users/22291413/juan-frois" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
-  <a href="https://www.twitch.tv/jfroislearningjourney" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch"></a>
-  <a href="https://www.youtube.com/@jfroislearningjourney" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
-</p>
+![Sequência de Contribuições](https://nirzak-streak-stats.vercel.app/?user=JFrois&background=000000&border=7392E0&stroke=7392E0&ring=73C2A9&fire=73C2A9&currStreakNum=7392E0&sideNums=7392E0&currStreakLabel=71A5CA&sideLabels=71A5CA&dates=71A5CA&hide_border=false)
+
+![Gráfico de Commits](https://github-readme-activity-graph.vercel.app/graph?username=JFrois&bg_color=000000&color=7392E0&line=73C2A9&point=71A5CA&area=true&hide_border=false)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JFrois/JFrois/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JFrois/JFrois/output/github-snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/JFrois/JFrois/output/github-snake.svg">
+  </picture>
+</div>
+
+---
+
+### 🌐 Conexão Estabelecida
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=7392E0)](https://www.linkedin.com/in/jfrois/) [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=7392E0)](mailto:contatojuanfrois@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=7392E0)](https://wa.me/5511986834909)
