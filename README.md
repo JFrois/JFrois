@@ -55,9 +55,11 @@ graph LR
 
 ---
 
-### 📡 Telemetria em Tempo Real
+### 📡 Telemetria de Linguagens
 
-*Gráfico dinâmico atualizado via GitHub Actions com o meu tempo de código e linguagens mais usadas na última semana.*
+*Gráfico dinâmico das linguagens mais utilizadas nos meus repositórios públicos.*
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JFrois&layout=compact&bg_color=000000&title_color=7392E0&text_color=71A5CA&icon_color=73C2A9&border_color=7392E0&hide_border=false)
 
 ---
 
