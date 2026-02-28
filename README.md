@@ -35,7 +35,7 @@ graph LR
 
 * 📊 **[Business Intelligence & Estratégia (Aftermarket)](https://github.com/JFrois/Analise-Aftermarket):** Aplicação corporativa (Python, Streamlit, SQL) para a VOSS Automotive. Cruza dados de clientes OEM para identificar oportunidades de venda no mercado de reposição, gerando leads qualificados.
 * 🤖 **[Automação Desktop & RPA (Processador de Pedidos)](https://github.com/JFrois/RPA-Processamento_PDFs):** Aplicação Desktop completa descrita no fluxo acima. Estrutura dados críticos e gera relatórios consolidados.
-* 🏭 **[Automação de Cadastro (TOTVS Protheus)](https://github.com/JFrois/Automacao-Cadastro-Previsao-Vendas):** Bot de RPA em Python para automatizar cadastros complexos em sistemas ERP.
+* 🏭 **[Automação de Cadastro (TOTVS Protheus)](https://github.com/JFrois/Automa-o-de-Cadastro-de-Previs-o-de-Vendas---TOTVS-Protheus):** Bot de RPA em Python para automatizar cadastros complexos em sistemas ERP.
 * ⚖️ **[Envio de Novos Casos](https://github.com/JFrois/Envio-novos-casos---Python):** Projeto em Python + Zapier para consolidação de dados (ex.: ITBI) e envio automatizado.
 
 ---
