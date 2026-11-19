@@ -1,21 +1,41 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=24&duration=4000&pause=1000&color=7392E0&center=false&vCenter=true&width=800&lines=>+Inicializando+perfil+de+Juan+Frois...;>+Carregando+módulos+de+Automação+(RPA)...;>+Estruturando+pipelines+de+Dados...;>+Acesso+concedido.+Sistema+online.)](https://github.com/JFrois)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=24&duration=4000&pause=1000&color=7392E0&center=false&vCenter=true&width=800&lines=Olá,+eu+sou+Juan+Frois+👋;Automação+(RPA)+que+elimina+trabalho+manual;Dados+e+Python+para+decisões+melhores)](https://github.com/JFrois)
 
 ### Desenvolvedor Python | Automação (RPA) | Dados
-*> Do Operacional à Engenharia: Resolvendo problemas complexos com tecnologia.*
+*Do Operacional à Engenharia: resolvendo problemas complexos com tecnologia.*
 
-![Visitantes](https://komarev.com/ghpvc/?username=JFrois&color=7392E0&style=for-the-badge&label=VISITANTES)
+🟢 **Aberto a novas oportunidades**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=7392E0)](https://www.linkedin.com/in/jfrois/) [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=7392E0)](mailto:contatojuanfrois@gmail.com)
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 Sobre mim
 
-A minha trajetória profissional em grandes empresas como Loft, QuintoAndar e VOSS Automotive moldou o meu perfil de desenvolvedor: **não escrevo apenas código, crio soluções que resolvem dores reais do negócio.**
+Atuei em empresas como **Loft, QuintoAndar e VOSS Automotive** e, com essa visão híbrida entre Operações e Tecnologia, aprendi a identificar gargalos reais e a construir ferramentas que os resolvem.
 
-Com uma visão híbrida entre Operações e Tecnologia, especializei-me em identificar gargalos e construir ferramentas robustas para os solucionar. O meu foco é Engenharia de Software, utilizando Python tanto para Automação (RPA) quanto para Análise de Dados. O meu objetivo é atuar como solucionador de problemas, gerando eficiência operacional e valor estratégico.
+Uso **Python** para Automação (RPA) e Análise de Dados. Meu objetivo é atuar em Engenharia de Software, entregando eficiência operacional e valor estratégico, **não só código**.
 
-### ⚙️ Arquitetura em Destaque: Robô Processador de Pedidos
+### 📈 Impacto em números
 
-Para ilustrar a minha abordagem à resolução de problemas, aqui está a arquitetura de uma das minhas soluções de RPA que eliminou horas de trabalho manual em portais B2B:
+| Métrica | Resultado |
+|---|---|
+| ⏱️ Tempo economizado | _[ex.: X horas/semana]_ |
+| 🤖 Processos automatizados | _[ex.: N fluxos]_ |
+| ✅ Redução de erros manuais | _[ex.: X%]_ |
+
+---
+
+### 🚀 Projetos em destaque
+
+| Projeto | Problema | Solução | Stack |
+|---|---|---|---|
+| 📊 **[Análise Aftermarket](https://github.com/JFrois/Analise-Aftermarket)** | Oportunidades de venda no mercado de reposição não eram visíveis | Aplicação corporativa que cruza dados de clientes OEM e gera leads qualificados (VOSS Automotive) | Python · Streamlit · SQL |
+| 🤖 **[Processador de Pedidos (RPA)](https://github.com/JFrois/RPA-Processamento_PDFs)** | Horas de trabalho manual em portais B2B | App desktop que baixa pedidos, lê PDFs, consolida em Excel e notifica por e-mail | Python · Selenium |
+| 🏭 **[Cadastro TOTVS Protheus](https://github.com/JFrois/Automa-o-de-Cadastro-de-Previs-o-de-Vendas---TOTVS-Protheus)** | Cadastros complexos e repetitivos no ERP | Bot de RPA que automatiza o cadastro de previsão de vendas | Python · RPA |
+| ⚖️ **[Envio de Novos Casos](https://github.com/JFrois/Envio-novos-casos---Python)** | Consolidação e envio manual de dados (ex.: ITBI) | Pipeline Python + Zapier com envio automatizado | Python · Zapier |
+
+<details>
+<summary><b>⚙️ Ver arquitetura do Processador de Pedidos</b></summary>
 
 ```mermaid
 graph LR
@@ -23,7 +43,7 @@ graph LR
     B -->|Extração de Dados| C{📄 Leitura de PDFs}
     C -->|Estruturação| D[(📊 Relatório Excel)]
     D -->|Disparo Automático| E[✉️ Notificação por E-mail]
-    
+
     style A fill:#0d1117,stroke:#73C2A9,stroke-width:2px,color:#73C2A9
     style B fill:#000000,stroke:#7392E0,stroke-width:2px,color:#7392E0
     style C fill:#0d1117,stroke:#71A5CA,stroke-width:2px,color:#71A5CA
@@ -31,61 +51,28 @@ graph LR
     style E fill:#0d1117,stroke:#73C2A9,stroke-width:2px,color:#73C2A9
 ```
 
-### 🚀 Projetos de Impacto
-
-* 📊 **[Business Intelligence & Estratégia (Aftermarket)](https://github.com/JFrois/Analise-Aftermarket):** Aplicação corporativa (Python, Streamlit, SQL) para a VOSS Automotive. Cruza dados de clientes OEM para identificar oportunidades de venda no mercado de reposição, gerando leads qualificados.
-* 🤖 **[Automação Desktop & RPA (Processador de Pedidos)](https://github.com/JFrois/RPA-Processamento_PDFs):** Aplicação Desktop completa descrita no fluxo acima. Estrutura dados críticos e gera relatórios consolidados.
-* 🏭 **[Automação de Cadastro (TOTVS Protheus)](https://github.com/JFrois/Automa-o-de-Cadastro-de-Previs-o-de-Vendas---TOTVS-Protheus):** Bot de RPA em Python para automatizar cadastros complexos em sistemas ERP.
-* ⚖️ **[Envio de Novos Casos](https://github.com/JFrois/Envio-novos-casos---Python):** Projeto em Python + Zapier para consolidação de dados (ex.: ITBI) e envio automatizado.
-
----
-
-### 💻 Stack Tecnológico e Ferramentas
-
-<details>
-<summary><b>🛠️ Clica para expandir as minhas Linguagens e Ferramentas</b></summary>
-
-<br>**Linguagens:**
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=7392E0" alt="Python"> <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=7392E0" alt="JavaScript"> <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=7392E0" alt="Java"> <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=7392E0" alt="C"> <img src="https://img.shields.io/badge/HTML5_%26_CSS3-000000?style=for-the-badge&logo=html5&logoColor=7392E0" alt="HTML/CSS">
-
-**Bancos de Dados:**
-<img src="https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=7392E0" alt="SQL Server"> <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=7392E0" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=7392E0" alt="MySQL">
-
-**Ferramentas & DevOps:**
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=7392E0" alt="Docker"> <img src="https://img.shields.io/badge/Git_%26_GitHub-000000?style=for-the-badge&logo=github&logoColor=7392E0" alt="Git"> <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=7392E0" alt="Power BI"> <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=7392E0" alt="Streamlit"> <img src="https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium&logoColor=7392E0" alt="Selenium"> <img src="https://img.shields.io/badge/Jira_%26_Confluence-000000?style=for-the-badge&logo=jira&logoColor=7392E0" alt="Jira"> <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=7392E0" alt="Postman">
-
 </details>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 💻 Stack
 
-<details>
-<summary><b>📈 Clique para expandir as estatísticas detalhadas</b></summary>
-<br />
+**Principal:**
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=7392E0" alt="Python"> <img src="https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=7392E0" alt="SQL Server"> <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=7392E0" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=7392E0" alt="Streamlit"> <img src="https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium&logoColor=7392E0" alt="Selenium"> <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=7392E0" alt="Power BI">
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JFrois/JFrois/output/github-snake-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JFrois/JFrois/output/github-snake.svg">
-          <img alt="Snake Animation" src="https://raw.githubusercontent.com/JFrois/JFrois/output/github-snake.svg" width="100%">
-        </picture>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=JFrois&background=000000&border=7392E0&stroke=7392E0&ring=73C2A9&fire=73C2A9&currStreakNum=7392E0&sideNums=7392E0&currStreakLabel=71A5CA&sideLabels=71A5CA&dates=71A5CA&hide_border=false" alt="Sequência de Contribuições" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-</details>
-
+**Também uso:**
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=7392E0" alt="JavaScript"> <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=7392E0" alt="Java"> <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=7392E0" alt="C"> <img src="https://img.shields.io/badge/HTML5_%26_CSS3-000000?style=for-the-badge&logo=html5&logoColor=7392E0" alt="HTML/CSS"> <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=7392E0" alt="MySQL"> <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=7392E0" alt="Docker"> <img src="https://img.shields.io/badge/Git_%26_GitHub-000000?style=for-the-badge&logo=github&logoColor=7392E0" alt="Git"> <img src="https://img.shields.io/badge/Jira_%26_Confluence-000000?style=for-the-badge&logo=jira&logoColor=7392E0" alt="Jira"> <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=7392E0" alt="Postman">
 
 ---
 
-### 🌐 Conexões
+### 📊 Atividade no GitHub
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=7392E0)](https://www.linkedin.com/in/jfrois/) [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=7392E0)](mailto:contatojuanfrois@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=7392E0)](https://wa.me/5511986834909)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JFrois/JFrois/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JFrois/JFrois/output/github-snake.svg">
+  <img alt="Animação da cobra com as contribuições" src="https://raw.githubusercontent.com/JFrois/JFrois/output/github-snake.svg" width="100%">
+</picture>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFrois&layout=compact&hide_border=true&bg_color=000000&title_color=7392E0&text_color=71A5CA" alt="Linguagens mais usadas" />
+</p>
