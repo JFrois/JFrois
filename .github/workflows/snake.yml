@@ -21,7 +21,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#7392E0&color_dots=#0d1117,#1A2B4C,#2A437C,#4B73CA,#73C2A9
+            dist/github-snake.svg?color_snake=#3f5fb8&color_dots=#ebedf0,#c9d6f3,#9fb5e8,#6f8fe0,#1d8a6a
             dist/github-snake-dark.svg?color_snake=#7392E0&color_dots=#0d1117,#1A2B4C,#2A437C,#4B73CA,#73C2A9
 
       - name: Push animation to output branch
