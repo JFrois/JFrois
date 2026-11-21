@@ -1,8 +1,10 @@
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"><img src="assets/banner-dark.svg" alt="Juan Frois, Desenvolvedor de Soluções, Automação (RPA) e Dados" width="100%"></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="assets/banner-pt-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/banner-pt-dark.svg"><img src="assets/banner-pt-dark.svg" alt="Juan Frois, Desenvolvedor de Soluções, Automação (RPA) e Dados" width="100%"></picture>
 </p>
 
 <p align="center"><em>Do Operacional à Engenharia: resolvendo problemas complexos com tecnologia.</em></p>
+
+<p align="center">🇧🇷 <b>Português</b> &nbsp;·&nbsp; 🇺🇸 <a href="README.en.md">English</a></p>
 
 <div align="center">
 
@@ -23,10 +25,10 @@ Uso **Python** para Automação (RPA) e Análise de Dados. Meu objetivo é atuar
 *Tempo ativo do usuário: quanto tempo a pessoa fica ocupada. O robô roda sozinho depois.*
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="assets/metric-processador-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/metric-processador-dark.svg"><img src="assets/metric-processador-dark.svg" alt="Processador de Pedidos: de 6 a 12 horas para 20 segundos. Já rodou 8.000 pedidos em cerca de 6 horas sem supervisão." width="400"></picture>
-  <picture><source media="(prefers-color-scheme: light)" srcset="assets/metric-totvs-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/metric-totvs-dark.svg"><img src="assets/metric-totvs-dark.svg" alt="Cadastro TOTVS Protheus: de 30 minutos para 20 segundos, 20 casos por ciclo." width="400"></picture>
-  <picture><source media="(prefers-color-scheme: light)" srcset="assets/metric-aftermarket-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/metric-aftermarket-dark.svg"><img src="assets/metric-aftermarket-dark.svg" alt="Análise Aftermarket: de 3 horas por peça para resposta instantânea, usada por 4 pessoas." width="400"></picture>
-  <picture><source media="(prefers-color-scheme: light)" srcset="assets/metric-envio-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/metric-envio-dark.svg"><img src="assets/metric-envio-dark.svg" alt="Envio de Novos Casos: de 100 para 500 envios por dia, de 3 a 5 vezes o volume manual." width="400"></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="assets/metric-processador-pt-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/metric-processador-pt-dark.svg"><img src="assets/metric-processador-pt-dark.svg" alt="Processador de Pedidos: de 6 a 12 horas para 20 segundos. Já rodou 8.000 pedidos em cerca de 6 horas sem supervisão." width="400"></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="assets/metric-totvs-pt-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/metric-totvs-pt-dark.svg"><img src="assets/metric-totvs-pt-dark.svg" alt="Cadastro TOTVS Protheus: de 30 minutos para 20 segundos, 20 casos por ciclo." width="400"></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="assets/metric-aftermarket-pt-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/metric-aftermarket-pt-dark.svg"><img src="assets/metric-aftermarket-pt-dark.svg" alt="Análise Aftermarket: de 3 horas por peça para resposta instantânea, usada por 4 pessoas." width="400"></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="assets/metric-envio-pt-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/metric-envio-pt-dark.svg"><img src="assets/metric-envio-pt-dark.svg" alt="Envio de Novos Casos: de 100 para 500 envios por dia, de 3 a 5 vezes o volume manual." width="400"></picture>
 </p>
 
 <picture><source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-dark.svg" alt="" width="100%"></picture>
@@ -34,10 +36,10 @@ Uso **Python** para Automação (RPA) e Análise de Dados. Meu objetivo é atuar
 ### 🚀 Projetos em destaque
 
 <p align="center">
-  <a href="https://github.com/JFrois/Analise-Aftermarket"><picture><source media="(prefers-color-scheme: light)" srcset="assets/card-aftermarket-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/card-aftermarket-dark.svg"><img src="assets/card-aftermarket-dark.svg" alt="Análise Aftermarket: Python, Streamlit e SQL. Cruza dados de clientes OEM e responde na hora onde estão as peças e as oportunidades de reposição." width="400"></picture></a>
-  <a href="https://github.com/JFrois/RPA-Processamento_PDFs"><picture><source media="(prefers-color-scheme: light)" srcset="assets/card-processador-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/card-processador-dark.svg"><img src="assets/card-processador-dark.svg" alt="Processador de Pedidos (RPA): Python e Selenium. Baixa pedidos do portal B2B, lê PDFs, consolida em Excel e notifica por e-mail." width="400"></picture></a>
-  <a href="https://github.com/JFrois/Automa-o-de-Cadastro-de-Previs-o-de-Vendas---TOTVS-Protheus"><picture><source media="(prefers-color-scheme: light)" srcset="assets/card-totvs-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/card-totvs-dark.svg"><img src="assets/card-totvs-dark.svg" alt="Cadastro TOTVS Protheus: Python e RPA. Bot que cadastra a previsão de vendas no ERP a partir de uma planilha." width="400"></picture></a>
-  <a href="https://github.com/JFrois/Envio-novos-casos---Python"><picture><source media="(prefers-color-scheme: light)" srcset="assets/card-envio-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/card-envio-dark.svg"><img src="assets/card-envio-dark.svg" alt="Envio de Novos Casos: Python e Zapier. Consolida dados e envia de 300 a 500 casos por dia com um clique." width="400"></picture></a>
+  <a href="https://github.com/JFrois/Analise-Aftermarket"><picture><source media="(prefers-color-scheme: light)" srcset="assets/card-aftermarket-pt-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/card-aftermarket-pt-dark.svg"><img src="assets/card-aftermarket-pt-dark.svg" alt="Análise Aftermarket: Python, Streamlit e SQL. Cruza dados de clientes OEM e responde na hora onde estão as peças e as oportunidades de reposição." width="400"></picture></a>
+  <a href="https://github.com/JFrois/RPA-Processamento_PDFs"><picture><source media="(prefers-color-scheme: light)" srcset="assets/card-processador-pt-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/card-processador-pt-dark.svg"><img src="assets/card-processador-pt-dark.svg" alt="Processador de Pedidos (RPA): Python e Selenium. Baixa pedidos do portal B2B, lê PDFs, consolida em Excel e notifica por e-mail." width="400"></picture></a>
+  <a href="https://github.com/JFrois/Automa-o-de-Cadastro-de-Previs-o-de-Vendas---TOTVS-Protheus"><picture><source media="(prefers-color-scheme: light)" srcset="assets/card-totvs-pt-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/card-totvs-pt-dark.svg"><img src="assets/card-totvs-pt-dark.svg" alt="Cadastro TOTVS Protheus: Python e RPA. Bot que cadastra a previsão de vendas no ERP a partir de uma planilha." width="400"></picture></a>
+  <a href="https://github.com/JFrois/Envio-novos-casos---Python"><picture><source media="(prefers-color-scheme: light)" srcset="assets/card-envio-pt-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/card-envio-pt-dark.svg"><img src="assets/card-envio-pt-dark.svg" alt="Envio de Novos Casos: Python e Zapier. Consolida dados e envia de 300 a 500 casos por dia com um clique." width="400"></picture></a>
 </p>
 
 <details>
@@ -86,5 +88,5 @@ graph LR
 <picture><source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-dark.svg" alt="" width="100%"></picture>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg"><img src="assets/footer-dark.svg" alt="Vamos automatizar algo juntos? Contato pelo LinkedIn ou e-mail." width="100%"></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="assets/footer-pt-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/footer-pt-dark.svg"><img src="assets/footer-pt-dark.svg" alt="Vamos automatizar algo juntos? Contato pelo LinkedIn ou e-mail." width="100%"></picture>
 </p>
