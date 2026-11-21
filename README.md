@@ -1,21 +1,49 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=24&duration=4000&pause=1000&color=7392E0&center=false&vCenter=true&width=800&lines=>+Inicializando+perfil+de+Juan+Frois...;>+Carregando+módulos+de+Automação+(RPA)...;>+Estruturando+pipelines+de+Dados...;>+Acesso+concedido.+Sistema+online.)](https://github.com/JFrois)
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="assets/banner-pt-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/banner-pt-dark.svg"><img src="assets/banner-pt-dark.svg" alt="Juan Frois, Desenvolvedor de Soluções, Automação (RPA) e Dados" width="100%"></picture>
+</p>
 
-### Desenvolvedor Python | Automação (RPA) | Dados
-*> Do Operacional à Engenharia: Resolvendo problemas complexos com tecnologia.*
+<p align="center"><em>Do Operacional à Engenharia: resolvendo problemas complexos com tecnologia.</em></p>
 
-![Visitantes](https://komarev.com/ghpvc/?username=JFrois&color=7392E0&style=for-the-badge&label=VISITANTES)
+<p align="center">🇧🇷 <b>Português</b> &nbsp;·&nbsp; 🇺🇸 <a href="README.en.md">English</a></p>
 
----
+<div align="center">
 
-### 👨‍💻 Sobre Mim
+<a href="https://www.linkedin.com/in/jfrois/"><picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-f0f3f8?style=for-the-badge&logo=linkedin&logoColor=3f5fb8"><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=7392E0"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=7392E0"></picture></a> <a href="mailto:contatojuanfrois@gmail.com"><picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-f0f3f8?style=for-the-badge&logo=gmail&logoColor=3f5fb8"><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=7392E0"><img alt="Email" src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=7392E0"></picture></a>
 
-A minha trajetória profissional em grandes empresas como Loft, QuintoAndar e VOSS Automotive moldou o meu perfil de desenvolvedor: **não escrevo apenas código, crio soluções que resolvem dores reais do negócio.**
+</div>
 
-Com uma visão híbrida entre Operações e Tecnologia, especializei-me em identificar gargalos e construir ferramentas robustas para os solucionar. O meu foco é Engenharia de Software, utilizando Python tanto para Automação (RPA) quanto para Análise de Dados. O meu objetivo é atuar como solucionador de problemas, gerando eficiência operacional e valor estratégico.
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-dark.svg" alt="" width="100%"></picture>
 
-### ⚙️ Arquitetura em Destaque: Robô Processador de Pedidos
+### 👨‍💻 Sobre mim
 
-Para ilustrar a minha abordagem à resolução de problemas, aqui está a arquitetura de uma das minhas soluções de RPA que eliminou horas de trabalho manual em portais B2B:
+Atuei em empresas como **Loft, QuintoAndar e VOSS Automotive** e, com essa visão híbrida entre Operações e Tecnologia, aprendi a identificar gargalos reais e a construir ferramentas que os resolvem.
+
+Uso **Python** para Automação (RPA) e Análise de Dados. Meu objetivo é atuar em Engenharia de Software, entregando eficiência operacional e valor estratégico, **não só código**.
+
+### 📈 Impacto em números
+
+*Tempo ativo do usuário: quanto tempo a pessoa fica ocupada. O robô roda sozinho depois.*
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="assets/metric-processador-pt-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/metric-processador-pt-dark.svg"><img src="assets/metric-processador-pt-dark.svg" alt="Processador de Pedidos: de 6 a 12 horas para 20 segundos. Já rodou 8.000 pedidos em cerca de 6 horas sem supervisão." width="400"></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="assets/metric-totvs-pt-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/metric-totvs-pt-dark.svg"><img src="assets/metric-totvs-pt-dark.svg" alt="Cadastro TOTVS Protheus: de 30 minutos para 20 segundos, 20 casos por ciclo." width="400"></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="assets/metric-aftermarket-pt-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/metric-aftermarket-pt-dark.svg"><img src="assets/metric-aftermarket-pt-dark.svg" alt="Análise Aftermarket: de 3 horas por peça para resposta instantânea, usada por 4 pessoas." width="400"></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="assets/metric-envio-pt-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/metric-envio-pt-dark.svg"><img src="assets/metric-envio-pt-dark.svg" alt="Envio de Novos Casos: de 100 para 500 envios por dia, de 3 a 5 vezes o volume manual." width="400"></picture>
+</p>
+
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-dark.svg" alt="" width="100%"></picture>
+
+### 🚀 Projetos em destaque
+
+<p align="center">
+  <a href="https://github.com/JFrois/Analise-Aftermarket"><picture><source media="(prefers-color-scheme: light)" srcset="assets/card-aftermarket-pt-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/card-aftermarket-pt-dark.svg"><img src="assets/card-aftermarket-pt-dark.svg" alt="Análise Aftermarket: Python, Streamlit e SQL. Cruza dados de clientes OEM e responde na hora onde estão as peças e as oportunidades de reposição." width="400"></picture></a>
+  <a href="https://github.com/JFrois/RPA-Processamento_PDFs"><picture><source media="(prefers-color-scheme: light)" srcset="assets/card-processador-pt-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/card-processador-pt-dark.svg"><img src="assets/card-processador-pt-dark.svg" alt="Processador de Pedidos (RPA): Python e Selenium. Baixa pedidos do portal B2B, lê PDFs, consolida em Excel e notifica por e-mail." width="400"></picture></a>
+  <a href="https://github.com/JFrois/Automa-o-de-Cadastro-de-Previs-o-de-Vendas---TOTVS-Protheus"><picture><source media="(prefers-color-scheme: light)" srcset="assets/card-totvs-pt-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/card-totvs-pt-dark.svg"><img src="assets/card-totvs-pt-dark.svg" alt="Cadastro TOTVS Protheus: Python e RPA. Bot que cadastra a previsão de vendas no ERP a partir de uma planilha." width="400"></picture></a>
+  <a href="https://github.com/JFrois/Envio-novos-casos---Python"><picture><source media="(prefers-color-scheme: light)" srcset="assets/card-envio-pt-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/card-envio-pt-dark.svg"><img src="assets/card-envio-pt-dark.svg" alt="Envio de Novos Casos: Python e Zapier. Consolida dados e envia de 300 a 500 casos por dia com um clique." width="400"></picture></a>
+</p>
+
+<details>
+<summary><b>⚙️ Ver arquitetura do Processador de Pedidos</b></summary>
 
 ```mermaid
 graph LR
@@ -23,7 +51,7 @@ graph LR
     B -->|Extração de Dados| C{📄 Leitura de PDFs}
     C -->|Estruturação| D[(📊 Relatório Excel)]
     D -->|Disparo Automático| E[✉️ Notificação por E-mail]
-    
+
     style A fill:#0d1117,stroke:#73C2A9,stroke-width:2px,color:#73C2A9
     style B fill:#000000,stroke:#7392E0,stroke-width:2px,color:#7392E0
     style C fill:#0d1117,stroke:#71A5CA,stroke-width:2px,color:#71A5CA
@@ -31,61 +59,34 @@ graph LR
     style E fill:#0d1117,stroke:#73C2A9,stroke-width:2px,color:#73C2A9
 ```
 
-### 🚀 Projetos de Impacto
-
-* 📊 **[Business Intelligence & Estratégia (Aftermarket)](https://github.com/JFrois/Analise-Aftermarket):** Aplicação corporativa (Python, Streamlit, SQL) para a VOSS Automotive. Cruza dados de clientes OEM para identificar oportunidades de venda no mercado de reposição, gerando leads qualificados.
-* 🤖 **[Automação Desktop & RPA (Processador de Pedidos)](https://github.com/JFrois/RPA-Processamento_PDFs):** Aplicação Desktop completa descrita no fluxo acima. Estrutura dados críticos e gera relatórios consolidados.
-* 🏭 **[Automação de Cadastro (TOTVS Protheus)](https://github.com/JFrois/Automa-o-de-Cadastro-de-Previs-o-de-Vendas---TOTVS-Protheus):** Bot de RPA em Python para automatizar cadastros complexos em sistemas ERP.
-* ⚖️ **[Envio de Novos Casos](https://github.com/JFrois/Envio-novos-casos---Python):** Projeto em Python + Zapier para consolidação de dados (ex.: ITBI) e envio automatizado.
-
----
-
-### 💻 Stack Tecnológico e Ferramentas
-
-<details>
-<summary><b>🛠️ Clica para expandir as minhas Linguagens e Ferramentas</b></summary>
-
-<br>**Linguagens:**
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=7392E0" alt="Python"> <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=7392E0" alt="JavaScript"> <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=7392E0" alt="Java"> <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=7392E0" alt="C"> <img src="https://img.shields.io/badge/HTML5_%26_CSS3-000000?style=for-the-badge&logo=html5&logoColor=7392E0" alt="HTML/CSS">
-
-**Bancos de Dados:**
-<img src="https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=7392E0" alt="SQL Server"> <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=7392E0" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=7392E0" alt="MySQL">
-
-**Ferramentas & DevOps:**
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=7392E0" alt="Docker"> <img src="https://img.shields.io/badge/Git_%26_GitHub-000000?style=for-the-badge&logo=github&logoColor=7392E0" alt="Git"> <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=7392E0" alt="Power BI"> <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=7392E0" alt="Streamlit"> <img src="https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium&logoColor=7392E0" alt="Selenium"> <img src="https://img.shields.io/badge/Jira_%26_Confluence-000000?style=for-the-badge&logo=jira&logoColor=7392E0" alt="Jira"> <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=7392E0" alt="Postman">
-
 </details>
 
----
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-dark.svg" alt="" width="100%"></picture>
 
-### 📊 Estatísticas do GitHub
+### 💻 Stack
 
-<details>
-<summary><b>📈 Clique para expandir as estatísticas detalhadas</b></summary>
-<br />
+**Principal:**
+<picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-f0f3f8?style=for-the-badge&logo=python&logoColor=3f5fb8"><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=7392E0"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=7392E0" alt="Python"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/SQL_Server-f0f3f8?style=for-the-badge&logo=microsoftsqlserver&logoColor=3f5fb8"><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=7392E0"><img src="https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=7392E0" alt="SQL Server"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PostgreSQL-f0f3f8?style=for-the-badge&logo=postgresql&logoColor=3f5fb8"><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=7392E0"><img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=7392E0" alt="PostgreSQL"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Streamlit-f0f3f8?style=for-the-badge&logo=streamlit&logoColor=3f5fb8"><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=7392E0"><img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=7392E0" alt="Streamlit"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Selenium-f0f3f8?style=for-the-badge&logo=selenium&logoColor=3f5fb8"><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium&logoColor=7392E0"><img src="https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium&logoColor=7392E0" alt="Selenium"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Power_BI-f0f3f8?style=for-the-badge&logo=powerbi&logoColor=3f5fb8"><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=7392E0"><img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=7392E0" alt="Power BI"></picture>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JFrois/JFrois/output/github-snake-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JFrois/JFrois/output/github-snake.svg">
-          <img alt="Snake Animation" src="https://raw.githubusercontent.com/JFrois/JFrois/output/github-snake.svg" width="100%">
-        </picture>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=JFrois&background=000000&border=7392E0&stroke=7392E0&ring=73C2A9&fire=73C2A9&currStreakNum=7392E0&sideNums=7392E0&currStreakLabel=71A5CA&sideLabels=71A5CA&dates=71A5CA&hide_border=false" alt="Sequência de Contribuições" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
+**Também uso:**
+<picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-f0f3f8?style=for-the-badge&logo=javascript&logoColor=3f5fb8"><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=7392E0"><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=7392E0" alt="JavaScript"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Java-f0f3f8?style=for-the-badge&logo=openjdk&logoColor=3f5fb8"><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=7392E0"><img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=7392E0" alt="Java"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C-f0f3f8?style=for-the-badge&logo=c&logoColor=3f5fb8"><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=7392E0"><img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=7392E0" alt="C"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HTML5_%26_CSS3-f0f3f8?style=for-the-badge&logo=html5&logoColor=3f5fb8"><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML5_%26_CSS3-000000?style=for-the-badge&logo=html5&logoColor=7392E0"><img src="https://img.shields.io/badge/HTML5_%26_CSS3-000000?style=for-the-badge&logo=html5&logoColor=7392E0" alt="HTML/CSS"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MySQL-f0f3f8?style=for-the-badge&logo=mysql&logoColor=3f5fb8"><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=7392E0"><img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=7392E0" alt="MySQL"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Docker-f0f3f8?style=for-the-badge&logo=docker&logoColor=3f5fb8"><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=7392E0"><img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=7392E0" alt="Docker"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Git_%26_GitHub-f0f3f8?style=for-the-badge&logo=github&logoColor=3f5fb8"><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git_%26_GitHub-000000?style=for-the-badge&logo=github&logoColor=7392E0"><img src="https://img.shields.io/badge/Git_%26_GitHub-000000?style=for-the-badge&logo=github&logoColor=7392E0" alt="Git"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Jira_%26_Confluence-f0f3f8?style=for-the-badge&logo=jira&logoColor=3f5fb8"><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Jira_%26_Confluence-000000?style=for-the-badge&logo=jira&logoColor=7392E0"><img src="https://img.shields.io/badge/Jira_%26_Confluence-000000?style=for-the-badge&logo=jira&logoColor=7392E0" alt="Jira"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Postman-f0f3f8?style=for-the-badge&logo=postman&logoColor=3f5fb8"><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=7392E0"><img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=7392E0" alt="Postman"></picture>
 
-</details>
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-dark.svg" alt="" width="100%"></picture>
 
+### 📊 Atividade no GitHub
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JFrois/JFrois/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JFrois/JFrois/output/github-snake.svg">
+  <img alt="Animação da cobra com as contribuições" src="https://raw.githubusercontent.com/JFrois/JFrois/output/github-snake.svg" width="100%">
+</picture>
 
-### 🌐 Conexões
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JFrois&layout=compact&hide_border=true&bg_color=ffffff&title_color=3f5fb8&text_color=57606a"><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JFrois&layout=compact&hide_border=true&bg_color=000000&title_color=7392E0&text_color=71A5CA"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFrois&layout=compact&hide_border=true&bg_color=000000&title_color=7392E0&text_color=71A5CA" alt="Linguagens mais usadas" /></picture>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=7392E0)](https://www.linkedin.com/in/jfrois/) [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=7392E0)](mailto:contatojuanfrois@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=7392E0)](https://wa.me/5511986834909)
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-dark.svg" alt="" width="100%"></picture>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="assets/footer-pt-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/footer-pt-dark.svg"><img src="assets/footer-pt-dark.svg" alt="Vamos automatizar algo juntos? Contato pelo LinkedIn ou e-mail." width="100%"></picture>
+</p>
