@@ -24,7 +24,7 @@ Uso **Python** para Automação (RPA) e Análise de Dados. Meu objetivo é atuar
 | 🤖 Processador de Pedidos (portais B2B + PDFs) | 6 a 12 h de trabalho manual | ~10–20 s (apenas login e senha), mesmo com ~1.000 PDFs |
 | 🏭 Cadastro de Previsão de Vendas (TOTVS) | ~30 min (20 casos × 1min30) | ~20 s (login + upload da planilha) |
 | 📊 Análise Aftermarket (localização de peças) | ~3 h úteis por consulta, às vezes dias | Resposta instantânea |
-| ⚖️ Envio de Novos Casos | ~2 h úteis | Um clique: o envio roda no volume desejado |
+| ⚖️ Envio de Novos Casos | ~2 h úteis para ~100 casos/dia | Um clique: 300 a 500 casos/dia (3x a 5x o volume manual) |
 
 ---
 
@@ -35,7 +35,7 @@ Uso **Python** para Automação (RPA) e Análise de Dados. Meu objetivo é atuar
 | 📊 **[Análise Aftermarket](https://github.com/JFrois/Analise-Aftermarket)** | Time sem acesso ao sistema: localizar peças e oportunidades de reposição levava horas ou dias | Aplicação corporativa que cruza dados de clientes OEM e responde na hora, gerando leads qualificados (VOSS Automotive) | Python · Streamlit · SQL |
 | 🤖 **[Processador de Pedidos (RPA)](https://github.com/JFrois/RPA-Processamento_PDFs)** | 6 a 12 h de trabalho manual por ciclo em portais B2B (~100 itens por semana, ~1.000 PDFs em ciclos mensais ou trimestrais) | App desktop que baixa pedidos, lê PDFs, consolida em Excel e notifica por e-mail | Python · Selenium |
 | 🏭 **[Cadastro TOTVS Protheus](https://github.com/JFrois/Automa-o-de-Cadastro-de-Previs-o-de-Vendas---TOTVS-Protheus)** | Cadastros complexos e repetitivos no ERP | Bot de RPA que automatiza o cadastro de previsão de vendas | Python · RPA |
-| ⚖️ **[Envio de Novos Casos](https://github.com/JFrois/Envio-novos-casos---Python)** | Consolidação e envio manual de dados (ex.: ITBI) | Pipeline Python + Zapier com envio automatizado | Python · Zapier |
+| ⚖️ **[Envio de Novos Casos](https://github.com/JFrois/Envio-novos-casos---Python)** | Consolidação e envio manual de dados (ex.: ITBI), limitado a ~100 casos/dia | Pipeline Python + Zapier que envia 300 a 500 casos/dia com um clique | Python · Zapier |
 
 <details>
 <summary><b>⚙️ Ver arquitetura do Processador de Pedidos</b></summary>
